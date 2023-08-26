@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2>SLI-LL <br/> <span style="font-size:12px">Spoken Language Intelligence of Large Language Models for Language Learning</span> </h2> 
+<h2><span style="font-size:12px">Spoken Language Intelligence of Large Language Models for Language Learning</span> </h2> 
 
   <a href='https://arxiv.org/abs/2211.14758'><img src='https://img.shields.io/badge/ArXiv-2211.14758-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href='https://vocaliodmiku.github.io/SLI-LL/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 
