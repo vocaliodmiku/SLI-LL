@@ -1,0 +1,2711 @@
+{
+ "0": {
+  "question": "choose the words that begin with a bilabial consonant. met net set bet let pet",
+  "A": "met bet pet",
+  "B": "net set bet",
+  "C": "set bet let",
+  "D": "bet let pet",
+  "answer": "A",
+  "type": "p"
+ },
+ "1": {
+  "question": "choose the words that begin with a velar consonant. knot got lot cot hot pot",
+  "A": "knot got",
+  "B": "got cot",
+  "C": "lot cot",
+  "D": "hot pot",
+  "answer": "B",
+  "type": "p"
+ },
+ "2": {
+  "question": "choose the words that begin with a labiodental consonant. fat cat that mat chat vat",
+  "A": "fat cat",
+  "B": "cat that",
+  "C": "fat vat",
+  "D": "mat chat",
+  "answer": "C",
+  "type": "p"
+ },
+ "3": {
+  "question": "choose the words that begin with an alveolar consonant. zip nip lip sip tip dip",
+  "A": "zip nip lip sip",
+  "B": "sip tip dip",
+  "C": "nip lip sip tip",
+  "D": "zip nip lip sip tip dip",
+  "answer": "D",
+  "type": "p"
+ },
+ "4": {
+  "question": "choose the words that begin with a dental consonant. pie guy shy thigh thy high",
+  "A": "thigh thy",
+  "B": "thy high",
+  "C": "pie guy",
+  "D": "shy thigh",
+  "answer": "A",
+  "type": "p"
+ },
+ "5": {
+  "question": "choose the words that begin with a palato-alveolar consonant. sigh shy tie thigh thy lie",
+  "A": "sign",
+  "B": "shy",
+  "C": "thigh thy",
+  "D": "lie",
+  "answer": "B",
+  "type": "p"
+ },
+ "6": {
+  "question": "choose the words that end with a fricative. race wreath bush bring breathe bang rave real ray rose rough",
+  "A": "race wreath bush ring rave rose rough",
+  "B": "race wreath bush breathe bang rose rough",
+  "C": "race wreath bush breathe rave rose rough",
+  "D": "race wreath bush breathe rave real rough",
+  "answer": "C",
+  "type": "p"
+ },
+ "7": {
+  "question": "choose the words that end with a nasal. rain rang dumb deaf",
+  "A": "rain rang deaf",
+  "B": "rang dumb deaf",
+  "C": "rain dumb deaf",
+  "D": "rain rang dumb",
+  "answer": "D",
+  "type": "p"
+ },
+ "8": {
+  "question": "choose the words that end with a stop. pill lip lit graph crab dog hide laugh back",
+  "A": "lip lit graph crab dog back",
+  "B": "lit graph crab dog hide",
+  "C": "pill lip lit graph crab",
+  "D": "crab dog hide laugh back",
+  "answer": "A",
+  "type": "p"
+ },
+ "9": {
+  "question": "choose the words that begin with a lateral. nut lull bar rob one",
+  "A": "nut",
+  "B": "lull",
+  "C": "bar",
+  "D": "rob",
+  "answer": "B",
+  "type": "p"
+ },
+ "10": {
+  "question": "choose the words that begin with an approximant. we you one run",
+  "A": "you one run",
+  "B": "you",
+  "C": "we you one run",
+  "D": "we",
+  "answer": "C",
+  "type": "p"
+ },
+ "11": {
+  "question": "choose the words that end with an affricate. much back edge ooze",
+  "A": "edge ooze",
+  "B": "back edge",
+  "C": "much ooze",
+  "D": "much edge",
+  "answer": "D",
+  "type": "p"
+ },
+ "12": {
+  "question": "choose the words in which the consonant in the middle is voiced. tracking mother robber leisure massive stomach razor",
+  "A": "mother robber leisure leisure razor",
+  "B": "tracking mother robber leisure",
+  "C": "leisure massive stomach razor",
+  "D": "mother robber leisure massive",
+  "answer": "A",
+  "type": "p"
+ },
+ "13": {
+  "question": "choose the words that contain a high vowel. sat suit got meet mud",
+  "A": "sat suit",
+  "B": "suit meet",
+  "C": "got meet",
+  "D": "meet mud",
+  "answer": "B",
+  "type": "p"
+ },
+ "14": {
+  "question": "choose the words that contain a low vowel. weed wad load lad rude",
+  "A": "weed wad",
+  "B": "load lad",
+  "C": "wad lad",
+  "D": "lad rude",
+  "answer": "C",
+  "type": "p"
+ },
+ "15": {
+  "question": "choose the words that contain a front vowel. gate caught cat kit put",
+  "A": "gate caught cat",
+  "B": "cat kit put",
+  "C": "caught cat kit",
+  "D": "gate cat kit",
+  "answer": "D",
+  "type": "p"
+ },
+ "16": {
+  "question": "choose the words that contain a back vowel. maid weep coop cop good",
+  "A": "coop cop good",
+  "B": "maid weep coop",
+  "C": "weep coop cop",
+  "D": "maid weep cop",
+  "answer": "A",
+  "type": "p"
+ },
+ "17": {
+  "question": "choose the words that contain a rounded vowel. who me us but him",
+  "A": "me",
+  "B": "who",
+  "C": "us",
+  "D": "him",
+  "answer": "B",
+  "type": "p"
+ },
+ "18": {
+  "question": "How many distinct sounds are there in word \"augh\"?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "C",
+  "type": "p"
+ },
+ "19": {
+  "question": "How many distinct sounds are there in word \"begged\"?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "D",
+  "type": "p"
+ },
+ "20": {
+  "question": "How many distinct sounds are there in word \"graphic\"?",
+  "A": "2",
+  "B": "3",
+  "C": "4",
+  "D": "6",
+  "answer": "D",
+  "type": "p"
+ },
+ "21": {
+  "question": "How many distinct sounds are there in word \"fish\"?",
+  "A": "3",
+  "B": "4",
+  "C": "2",
+  "D": "1",
+  "answer": "A",
+  "type": "p"
+ },
+ "22": {
+  "question": "How many distinct sounds are there in word \"fishes\"?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "answer": "C",
+  "type": "p"
+ },
+ "23": {
+  "question": "How many distinct sounds are there in word \"fished\"?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "D",
+  "type": "p"
+ },
+ "24": {
+  "question": "How many distinct sounds are there in word \"batting\"?",
+  "A": "3",
+  "B": "4",
+  "C": "5",
+  "D": "6",
+  "answer": "C",
+  "type": "p"
+ },
+ "25": {
+  "question": "How many distinct sounds are there in word \"quick\"?",
+  "A": "4",
+  "B": "3",
+  "C": "2",
+  "D": "1",
+  "answer": "A",
+  "type": "p"
+ },
+ "26": {
+  "question": "How many distinct sounds are there in word \"these\"?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "C",
+  "type": "p"
+ },
+ "27": {
+  "question": "How many distinct sounds are there in word \"physics\"?",
+  "A": "3",
+  "B": "6",
+  "C": "9",
+  "D": "1",
+  "answer": "B",
+  "type": "p"
+ },
+ "28": {
+  "question": "How many distinct sounds are there in word \"knock\"?",
+  "A": "1",
+  "B": "2",
+  "C": "3",
+  "D": "4",
+  "answer": "C",
+  "type": "p"
+ },
+ "29": {
+  "question": "How many distinct sounds are there in word \"axis\"?",
+  "A": "1",
+  "B": "3",
+  "C": "5",
+  "D": "7",
+  "answer": "C",
+  "type": "p"
+ },
+ "30": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. pen said death mess mean",
+  "A": "mean",
+  "B": "pen",
+  "C": "mess",
+  "D": "death",
+  "answer": "A",
+  "type": "p"
+ },
+ "31": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. meat steak weak theme green",
+  "A": "weak",
+  "B": "steak",
+  "C": "theme",
+  "D": "green",
+  "answer": "B",
+  "type": "p"
+ },
+ "32": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. sane paid eight lace mast",
+  "A": "sane",
+  "B": "eight",
+  "C": "mast",
+  "D": "lace",
+  "answer": "C",
+  "type": "p"
+ },
+ "33": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. ton toast both note toes",
+  "A": "note",
+  "B": "toast",
+  "C": "both",
+  "D": "ton",
+  "answer": "D",
+  "type": "p"
+ },
+ "34": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. hoot good moon grew suit",
+  "A": "good",
+  "B": "moon",
+  "C": "hoot",
+  "D": "suit",
+  "answer": "A",
+  "type": "p"
+ },
+ "35": {
+  "question": "In the following set of words, the sound of the vowel is the same in every case but one. choose the word that has a different vowel sound. dud died mine eye guy",
+  "A": "guy",
+  "B": "dud",
+  "C": "eye",
+  "D": "died",
+  "answer": "B",
+  "type": "p"
+ },
+ "36": {
+  "question": "Choose a correct transcription of the word \"strength\"",
+  "A": "/streŋθ/",
+  "B": "/streŋs/",
+  "C": "/streŋz/",
+  "D": "/straŋθ/",
+  "answer": "A",
+  "type": "p"
+ },
+ "37": {
+  "question": "Choose a correct transcription of the word \"crime\"",
+  "A": "/kraɪmɪ/",
+  "B": "/kraɪm/",
+  "C": "/kramɪ/",
+  "D": "/krɪmɪ/",
+  "answer": "B",
+  "type": "p"
+ },
+ "38": {
+  "question": "Choose a correct transcription of the word \"wishing\"",
+  "A": "/wiʃ/",
+  "B": "/wiːʃ/",
+  "C": "/wɪʃ/",
+  "D": "/wɪʃŋ/",
+  "answer": "C",
+  "type": "p"
+ },
+ "39": {
+  "question": "Choose a correct transcription of the word \"wives\"",
+  "A": "/waɪvs/",
+  "B": "/waɪves/",
+  "C": "/waɪvez/",
+  "D": "/waɪvz/",
+  "answer": "D",
+  "type": "p"
+ },
+ "40": {
+  "question": "Choose a correct transcription of the word \"these\"",
+  "A": "/ðiːz/",
+  "B": "/diːz/",
+  "C": "/ðiːs/",
+  "D": "/diːs/",
+  "answer": "A",
+  "type": "p"
+ },
+ "41": {
+  "question": "Choose a correct transcription of the word \"hijacking\"",
+  "A": "/ˈhaɪ.jaæk/",
+  "B": "/ˈhaɪ.dʒæk/",
+  "C": "/haɪ.ˈdʒæk/",
+  "D": "/ˈhai.dʒæk/",
+  "answer": "B",
+  "type": "p"
+ },
+ "42": {
+  "question": "Choose a correct transcription of the word \"chipping\"",
+  "A": "/tʃɪp.ˈɪŋ/",
+  "B": "/ˈtʃɪp.iŋ/",
+  "C": "/ˈtʃɪp.ɪŋ/",
+  "D": "/ˈtʃɪpɪŋ/",
+  "answer": "C",
+  "type": "p"
+ },
+ "43": {
+  "question": "Choose a correct transcription of the word \"yelling\"",
+  "A": "/yel/",
+  "B": "/jelɪŋ/",
+  "C": "/jiːl/",
+  "D": "/jel/",
+  "answer": "D",
+  "type": "p"
+ },
+ "44": {
+  "question": "Choose a correct transcription of the word \"sixteen\"",
+  "A": "/ˌsɪkˈstiːn/",
+  "B": "/ˈsɪk.stiːn/",
+  "C": "/ˌsɪkˈstin/",
+  "D": "/ˌsikˈstiːn/",
+  "answer": "A",
+  "type": "p"
+ },
+ "45": {
+  "question": "Choose a correct transcription of the word \"thesis\"",
+  "A": "/ˈθiː.sɪz/",
+  "B": "/ˈθiː.sɪs/",
+  "C": "/ˈðiː.sɪs/",
+  "D": "/ˈðəː.sɪs/",
+  "answer": "B",
+  "type": "p"
+ },
+ "46": {
+  "question": "Choose a correct transcription of the word \"magnify\"",
+  "A": "/mægˈnəfaɪ/",
+  "B": "/ˈmæg.ni.faɪ/",
+  "C": "/ˈmæg.nə.faɪ/",
+  "D": "/ˈmeg.nə.faɪ/",
+  "answer": "C",
+  "type": "p"
+ },
+ "47": {
+  "question": "Choose a correct transcription of the word \"traffic\"",
+  "A": "/ˈtraf.ɪk/",
+  "B": "/ˈtraf.ɪ/",
+  "C": "/ˈtræfɪ/",
+  "D": "/ˈtræf.ɪk/",
+  "answer": "D",
+  "type": "p"
+ },
+ "48": {
+  "question": "Choose a correct transcription of the word \"simplistic\"",
+  "A": "/sɪmˈplɪs.tɪk/",
+  "B": "/sɪmu",
+  "C": "/sɪmˈplɪstɪk/",
+  "D": "/sɪmˈplɪs.tɪ/",
+  "answer": "A",
+  "type": "p"
+ },
+ "49": {
+  "question": "Choose a correct transcription of the word \"irrigate\"",
+  "A": "/ˈɪrəgeɪt/",
+  "B": "/ˈɪr.ə.geɪt/",
+  "C": "/ˈɪr.ɪ.geɪt/",
+  "D": "/ˈɪr.ə.gat/",
+  "answer": "B",
+  "type": "p"
+ },
+ "50": {
+  "question": "Choose a correct transcription of the word \"improvement\"",
+  "A": "/ɪmˈpruv.mənt/",
+  "B": "/ɪmˈpruːv.ment/",
+  "C": "/ɪmˈpruːv.mənt/",
+  "D": "/ɪnˈpruːv.mənt/",
+  "answer": "C",
+  "type": "p"
+ },
+ "51": {
+  "question": "Choose a correct transcription of the word \"demonstrate\"",
+  "A": "/ˈdam.ən.streɪt/",
+  "B": "/dem.ˈən.streɪt/",
+  "C": "/ˈdemən.straɪt/",
+  "D": "/ˈdem.ən.streɪt/",
+  "answer": "D",
+  "type": "p"
+ },
+ "52": {
+  "question": "Choose a correct transcription of the word \"human being\"",
+  "A": "/ˈhju.mən ˈbi.ɪŋ/",
+  "B": "/hju.ˈmən ˈbi.ɪŋ/",
+  "C": "/ˈhju.men ˈbi.ɪŋ/",
+  "D": "/ˈhju.mən ˈbi.ɪn/",
+  "answer": "A",
+  "type": "p"
+ },
+ "53": {
+  "question": "Choose a correct transcription of the word \"appreciate\"",
+  "A": "/aˈpriː.ʃi.eɪt/",
+  "B": "/əˈpriː.ʃi.eɪt/",
+  "C": "/əˈpriː.ʃi.aɪt/",
+  "D": "/əˈprɪ.ʃi.eɪt/",
+  "answer": "B",
+  "type": "p"
+ },
+ "54": {
+  "question": "Choose a correct transcription of the word \"wondrous\"",
+  "A": "/ˈwon.drəs/",
+  "B": "/ˈwən.drəs/",
+  "C": "/ˈwʌn.drəs/",
+  "D": "/ˈwʌn.dres/",
+  "answer": "C",
+  "type": "p"
+ },
+ "55": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? “l” sounds in: play, lean, feel",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "B",
+  "type": "p"
+ },
+ "56": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? The first sounds in: pie, tie, sigh",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "C",
+  "type": "p"
+ },
+ "57": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? The last sounds in: pat, mat, seat",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "B",
+  "type": "p"
+ },
+ "58": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? The “t” sounds in: bat, tub, steep, butter",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "C",
+  "type": "p"
+ },
+ "59": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? The “n” sound in: ten, tenth",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "B",
+  "type": "p"
+ },
+ "60": {
+  "question": "What kind of distribution is found for the sounds in these words (free variation, complementary distribution, or contrastive)? The medial sounds in: awesome, autumn, awning",
+  "A": "free variation",
+  "B": "complementary distribution",
+  "C": "contrastive distribution.",
+  "D": "neither of the above",
+  "answer": "B",
+  "type": "p"
+ },
+ "61": {
+  "question": "question: Which type of pronunciation issue does it fall under when [i:] and [ɪ] are pronounced in an indistinguishable manner?",
+  "A": "You do not differentiate between long and short vowels.;",
+  "B": "You do not differentiate between mid and back vowels.;",
+  "C": "You do not pay attention to the sliding process of diphthongs.;",
+  "D": "You insert an extra vowel sound after a consonant that does not have a following vowel.;",
+  "answer": "A",
+  "type": "p"
+ },
+ "62": {
+  "question": "question: How to pronounce the sound of [i:] correctly?",
+  "A": "You should smile and stretch your mouth sideways, touch your lower teeth with your tongue tip, raise your tongue front, and make a long sound.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "A",
+  "type": "p"
+ },
+ "63": {
+  "question": "question: How to pronounce the sound of [ɪ] correctly?",
+  "A": "You should smile and stretch your mouth sideways, touch your lower teeth with your tongue tip, raise your tongue front, and make a long sound.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "B",
+  "type": "p"
+ },
+ "64": {
+  "question": "question: Which type of pronunciation issue does it fall under when [ə] and [ʌ] are pronounced in an indistinguishable manner?",
+  "A": "You do not differentiate between long and short vowels.;",
+  "B": "You do not differentiate between mid and back vowels.;",
+  "C": "You do not pay attention to the sliding process of diphthongs.;",
+  "D": "You insert an extra vowel sound after a consonant that does not have a following vowel.;",
+  "answer": "B",
+  "type": "p"
+ },
+ "65": {
+  "question": "question: Can you explain how to pronounce the sound of [ə] correctly?",
+  "A": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "B": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "C": "You should completely relax, keep your mouth half open and half closed, and place your tongue flat.",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "C",
+  "type": "p"
+ },
+ "66": {
+  "question": "question: Can you explain how to pronounce the sound of [ʌ] correctly?",
+  "A": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "D": "You should slightly open your mouth, lower your tongue body, and raise your tongue back.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "67": {
+  "question": "question: Which type of pronunciation issue does it fall under when [ei] and [e] are pronounced in a same sound?",
+  "A": "You do not differentiate between long and short vowels.;",
+  "B": "You do not differentiate between mid and back vowels.;",
+  "C": "You do not pay attention to the sliding process of diphthongs.;",
+  "D": "You insert an extra vowel sound after a consonant that does not have a following vowel.;",
+  "answer": "C",
+  "type": "p"
+ },
+ "68": {
+  "question": "question: What's the proper way to say the sound of [ei]?",
+  "A": "You should slide from [e] to [i], stretch your mouth sideways, close your jaw upwards, and slightly raise your tongue position.;",
+  "B": "You should slide from [e] to [i], narrow your mouth sideways, close your jaw downwards, and slightly lower your tongue position.;",
+  "C": "You need to pronounce [e] and [i] separately and clearly, stretch your mouth sideways, close your jaw upwards, and slightly raise your tongue position.;",
+  "D": "You need to pronounce [e] and [i] separately and clearly, narrow your mouth sideways, close your jaw downwards, and slightly lower your tongue position.;",
+  "answer": "A",
+  "type": "p"
+ },
+ "69": {
+  "question": "question: What's the proper way to say the sound of [e]?",
+  "A": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "B": "You shoule place your tongue in the front of your mouth, raise the middle of your tongue close to the roof of your mouth, and stretch your lips horizontally to form a smile.;",
+  "C": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "D": "You should slightly open your mouth, lower your tongue body, and raise your tongue back.;",
+  "answer": "B",
+  "type": "p"
+ },
+ "70": {
+  "question": "question: Which type of pronunciation issue does it fall under when the character a and e are pronounced as [æ]?",
+  "A": "You do not differentiate between long and short vowels.;",
+  "B": "You do not differentiate between mid and back vowels.;",
+  "C": "You do not pay attention to the sliding process of diphthongs.;",
+  "D": "You do not follow the vowel pronunciation rules.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "71": {
+  "question": "question: Which type of pronunciation issue does it fall under when I say \"big-a\" instead of \"big\", or \"desk-a\" instead of \"desk\"?",
+  "A": "You do not differentiate between long and short vowels.;",
+  "B": "You do not differentiate between mid and back vowels.;",
+  "C": "You do not pay attention to the sliding process of diphthongs.;",
+  "D": "You insert an extra vowel sound after a consonant that does not have a following vowel.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "72": {
+  "question": "question: I struggle with differentiating between [p] and [b] in my pronunciation, Which type of pronunciation issue does it fall?",
+  "A": "You do not distinguish between voiceless and voiced consonants.;",
+  "B": "You do not differentiate between alveolar and palatal consonants.;",
+  "C": "You do not differentiate between affricate and other single consonants.;",
+  "D": "You do not differentiate between bilabials and dentals consonants.;",
+  "answer": "A",
+  "type": "p"
+ },
+ "73": {
+  "question": "question: Can you demonstrate the correct pronunciation of the sound [p]?",
+  "A": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "B": "you should not vibrate your vocal cords, put your finger on your throat and feel no vibration, but release the air flow abruptly.",
+  "C": "You should completely relax, keep your mouth half open and half closed, and place your tongue flat.",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "B",
+  "type": "p"
+ },
+ "74": {
+  "question": "question: Can you demonstrate the correct pronunciation of the sound [b]?",
+  "A": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "You should not vibrate your vocal cords, but release the air flow abruptly.;",
+  "D": "You should vibrate your vocal cords, and release the air flow slowly.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "75": {
+  "question": "question: I mix up the sounds [r] and [l] when I pronounce them, Which type of pronunciation issue does it fall?",
+  "A": "You do not distinguish between voiceless and voiced consonants.;",
+  "B": "You do not differentiate between alveolar and palatal consonants.;",
+  "C": "You do not differentiate between affricate and other single consonants.;",
+  "D": "You do not differentiate between bilabials and dentals consonants.;",
+  "answer": "B",
+  "type": "p"
+ },
+ "76": {
+  "question": "question: What is the correct way to articulate the sound [r]?",
+  "A": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "B": "you should not vibrate your vocal cords, put your finger on your throat and feel no vibration, but release the air flow abruptly.",
+  "C": "You should completely relax, keep your mouth half open and half closed, and place your tongue flat.",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "77": {
+  "question": "question: What is the correct way to articulate the sound [l]?",
+  "A": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "You should rise your tongue blade and lightly touch the hard palate or the gum behind your upper teeth.;",
+  "D": "You should vibrate your vocal cords, and release the air flow slowly.;",
+  "answer": "C",
+  "type": "p"
+ },
+ "78": {
+  "question": "question: When I say [tʃ] and [t], they sound the same, Which type of pronunciation issue does it fall?",
+  "A": "You do not distinguish between voiceless and voiced consonants.;",
+  "B": "You do not differentiate between alveolar and palatal consonants.;",
+  "C": "You do not differentiate between affricate and other single consonants.;",
+  "D": "You do not differentiate between bilabials and dentals consonants.;",
+  "answer": "C",
+  "type": "p"
+ },
+ "79": {
+  "question": "question: How do you correctly pronounce the sound [tʃ]?",
+  "A": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "B": "you should first make a stop and then a friction. That is, you should first block the air flow with your tongue tip and then slide it backwards and make a friction with your hard palate.;",
+  "C": "You should only touch your gum behind your upper teeth with your tongue tip and then release it abruptly.",
+  "D": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "answer": "A",
+  "type": "p"
+ },
+ "80": {
+  "question": "question: How do you correctly pronounce the sound [t]?",
+  "A": "You should curl up your tongue tip and touch the alveolar ridge or the gum behind your upper teeth.;",
+  "B": "You should relax and slightly open your lips, touch your lower teeth with your tongue tip, lower your tongue front, and make a short sound.;",
+  "C": "you should first make a stop and then a friction. That is, you should first block the air flow with your tongue tip and then slide it backwards and make a friction with your hard palate.;",
+  "D": "You should only touch your gum behind your upper teeth with your tongue tip and then release it abruptly.",
+  "answer": "D",
+  "type": "p"
+ },
+ "81": {
+  "question": "question: I pronounce different combinations of letters as the same consonant, such as pronouncing th and s as [s], Which type of pronunciation issue does it fall?",
+  "A": "You do not distinguish between voiceless and voiced consonants.;",
+  "B": "You do not differentiate between alveolar and palatal consonants.;",
+  "C": "You do not differentiate between affricate and other single consonants.;",
+  "D": "You do not follow the consonant pronunciation rules.;",
+  "answer": "D",
+  "type": "p"
+ },
+ "82": {
+  "question": "question: Which of the following statements about the emphasis on words in a sentence is incorrect?",
+  "A": "The stressed words are the ones that carry the main information or message of the sentence.",
+  "B": "The unstressed words are the ones that help to connect or support the stressed words.",
+  "C": "By stressing the content words, you can make your speech more clear and natural.",
+  "D": "The suffixes always carry important information and usually stressed.",
+  "answer": "D",
+  "type": "p"
+ },
+ "83": {
+  "question": "question: Which of the following statements about the emphasis on words in a sentence is incorrect? Note that Content words are the words that carry the main meaning or information in a sentence. They are usually nouns, verbs, adjectives, and adverbs. Function words are the words that help to connect or support the content words. They are usually articles, prepositions, conjunctions, and pronouns.",
+  "A": "Content words are the words that carry the main meaning or information in a sentence. Content words are usually stressed.",
+  "B": "Function words are the words that help to connect or support the content words. Function words are usually unstressed.",
+  "C": "The stressed syllables are pronounced more softly, quickly, and lower than the stressed syllables. Sometimes, they are even reduced or omitted.",
+  "D": "Content words are usually pronounced louder, longer, and higher than function words.",
+  "answer": "C",
+  "type": "s"
+ },
+ "84": {
+  "question": "question: What kind of pronunciation issue is it when I put the stress on the first syllable of 'interesting'?",
+  "A": "You stress the wrong syllable in the word 'interesting', because the stress should be on the second syllable (inTEResting), not the first.",
+  "B": "There is no pronunciation issue, because the stress is on the first syllable (INteresting).",
+  "C": "You stress the wrong syllable in the word 'interesting', because you should stress all the syllables in a word equally.",
+  "D": "The stress can be on the first syllable (INteresting) or the second syllable (inTEResting), depending on the speaker's preference or dialect.",
+  "answer": "A",
+  "type": "s"
+ },
+ "85": {
+  "question": "question: What is the pronunciation issue with saying economy as ‘eCONomy’? the stress is represented as upper case.",
+  "A": "There is no pronunciation issue because the stress should be on the second syllable (eCONomy).;",
+  "B": "The stress is incorrect because not all syllables in a word should be stressed equally;",
+  "C": "The stress is incorrect because it should be on the first syllable ‘Economy’, not ‘eCONomy’.;",
+  "D": "The stress can be on the first syllable (Economy) or the second syllable (eCONomy), depending on whether it is a noun or a adjective.;",
+  "answer": "C",
+  "type": "s"
+ },
+ "86": {
+  "question": "question: Which one below has the incorrect stress/accent?",
+  "A": "She is doing some REsearch on the history of the city.",
+  "B": "He needs to reSEARCH the topic before he writes his essay.",
+  "C": "They have published their REsearch findings in a journal.",
+  "D": "She will REsearch the best hotels for their trip.",
+  "answer": "D",
+  "type": "s"
+ },
+ "87": {
+  "question": "question: What's the pronunciation issue with stressing the first syllable (PREsent) in the word 'present'?",
+  "A": "The stress is incorrect because it should be on the second syllable, not the first.;",
+  "B": "There is no pronunciation issue because the stress should be on the first syllable.;",
+  "C": "The stress is incorrect because not all syllables in a word should be stressed equally;",
+  "D": "The stress can be on the first syllable (PREsent) or the second syllable (preSENT), depending on whether it is a noun or a verb.;",
+  "answer": "D",
+  "type": "s"
+ },
+ "88": {
+  "question": "question:Which of the following groups has all the correct stress/accent marks in uppercase letters on the stressed syllables?",
+  "A": "quiET, PARty, SPEcial, TOday",
+  "B": "ORange, partNER, TAble,",
+  "C": "reTRIEVE, enGINE, DIet",
+  "D": "GREEdy, EXchange, MANage",
+  "answer": "D",
+  "type": "s"
+ },
+ "89": {
+  "question": "question:Which of the following groups has a incorrect stress/accent marks in uppercase letters on the stressed syllables?",
+  "A": "FANtastic, ENerGY, exPENsive",
+  "B": "aggresSION, WONderful, LAUGHable",
+  "C": "temPtaTION, tramPOline, INdustry",
+  "D": "disTINguished, fiNANcial, howeVER",
+  "answer": "B",
+  "type": "s"
+ },
+ "90": {
+  "question": "question:Which of the following groups has a incorrect stress/accent marks in uppercase letters on the stressed syllables?",
+  "A": "unDERstandING, inDEcisive, conVERsation",
+  "B": "reaLIStic, MOIsTurising, AmeRIcan",
+  "C": "psyCHOlogy, greGARious",
+  "D": "inDEpenDENCE, AFFORDable",
+  "answer": "D",
+  "type": "s"
+ },
+ "91": {
+  "question": "question:Which of the following words has no stress position error? stress marked in uppercase letters on the stressed syllables.",
+  "A": "REsponsibility",
+  "B": "idioSYNcratic",
+  "C": "discriMINatory",
+  "D": "INvisibility",
+  "answer": "C",
+  "type": "s"
+ },
+ "92": {
+  "question": "question: Which of the following sentences has more appropriate stress marks on the emphasized words, considering the general case? Emphasized words are indicated by capital letters.",
+  "A": "He works in a bank.",
+  "B": "He WORKS in a BANK.",
+  "C": "He works IN a bank.",
+  "D": "He works in A bank.",
+  "answer": "B",
+  "type": "s"
+ },
+ "93": {
+  "question": "question: Which of the following sentences has more appropriate stress marks on the emphasized words, considering the general case? Emphasized words are indicated by capital letters.",
+  "A": "They went to the movies yesterday.",
+  "B": "They went TO the movies yesterday.",
+  "C": "They went to THE movies yesterday.",
+  "D": "They went to the movies YESTERDAY.",
+  "answer": "D",
+  "type": "s"
+ },
+ "94": {
+  "question": "question: Which of the following sentences can convey the meaning that she, and not someone else, loves reading books, contrasting her with another person who doesn’t love reading books, through its stress pattern? Stress marked in uppercase letters on the stressed syllables.",
+  "A": "SHE loves reading books.",
+  "B": "she LOVES reading books.",
+  "C": "she loves READING books.",
+  "D": "she loves reading BOOKS.",
+  "answer": "A",
+  "type": "s"
+ },
+ "95": {
+  "question": "question: Which of the following sentences can convey the meaning that she has a strong passion or emotion for reading books, emphasizing how much she enjoys reading books, through its stress pattern? Stress marked in uppercase letters on the stressed syllables.",
+  "A": "SHE loves reading books.",
+  "B": "she LOVES reading books.",
+  "C": "she loves READING books.",
+  "D": "she loves reading BOOKS.",
+  "answer": "B",
+  "type": "s"
+ },
+ "96": {
+  "question": "question: Which of the following sentences can convey the meaning that she loves the activity of reading books, and not something else related to books, contrasting reading books with writing books, through its stress pattern? Stress marked in uppercase letters on the stressed syllables.",
+  "A": "SHE loves reading books.",
+  "B": "she LOVES reading books.",
+  "C": "she loves READING books.",
+  "D": "she loves reading BOOKS.",
+  "answer": "C",
+  "type": "s"
+ },
+ "97": {
+  "question": "question: Which of the following sentences can convey the meaning that she loves reading books, and not something else that can be read, contrasting books with magazines, newspapers, comics, through its stress pattern? Stress marked in uppercase letters on the stressed syllables.",
+  "A": "SHE loves reading books.",
+  "B": "she LOVES reading books.",
+  "C": "she loves READING books.",
+  "D": "she loves reading BOOKS.",
+  "answer": "D",
+  "type": "s"
+ },
+ "98": {
+  "question": "question: Which of the following sentences can convey the meaning that she loves reading books, and not something else that can be read, contrasting books with magazines, newspapers, comics, through its stress pattern? Stress marked in uppercase letters on the stressed syllables.",
+  "A": "SHE loves reading books.",
+  "B": "she LOVES reading books.",
+  "C": "she loves READING books.",
+  "D": "she loves reading BOOKS.",
+  "answer": "D",
+  "type": "s"
+ },
+ "99": {
+  "question": "question: I want to convey the message that I have a strong opinion or disagreement about his feelings for her. Maybe someone else thinks that he likes her, but I don’t. Which stress pattern would be appropriate?",
+  "A": "I DON'T think he really likes her, he just wants to impress his friends;",
+  "B": "I don’t think he REALLY likes her, he just wants to impress his friends;",
+  "C": "I don’t think he really LIKES her, he just wants to impress his friends;",
+  "D": "I don’t think he really likes HER, he just wants to impress his friends;",
+  "answer": "A",
+  "type": "s"
+ },
+ "100": {
+  "question": "question: I want to convey the message that I doubt or question his sincerity or honesty about his feelings for her. Maybe he likes her a little bit, but not really. Which stress pattern would be appropriate?",
+  "A": "I DON'T think he really likes her, he just wants to impress his friends;",
+  "B": "I don’t think he REALLY likes her, he just wants to impress his friends;",
+  "C": "I don’t think he really LIKES her, he just wants to impress his friends;",
+  "D": "I don’t think he really likes HER, he just wants to impress his friends;",
+  "answer": "B",
+  "type": "s"
+ },
+ "101": {
+  "question": "question: I want to convey the message that I contrast his feelings for her with his actions towards her. Maybe he acts nice or friendly to her, but he doesn’t like her. Which stress pattern would be appropriate?",
+  "A": "I DON'T think he really likes her, he just wants to impress his friends;",
+  "B": "I don’t think he REALLY likes her, he just wants to impress his friends;",
+  "C": "I don’t think he really LIKES her, he just wants to impress his friends;",
+  "D": "I don’t think he really likes HER, he just wants to impress his friends;",
+  "answer": "C",
+  "type": "s"
+ },
+ "102": {
+  "question": "question: I want to convey the message that I focus on her as the object of his feelings. Maybe there is something special or different about her that makes him like her or not like her. Which stress pattern would be appropriate?",
+  "A": "I DON'T think he really likes her, he just wants to impress his friends;",
+  "B": "I don’t think he REALLY likes her, he just wants to impress his friends;",
+  "C": "I don’t think he really LIKES her, he just wants to impress his friends;",
+  "D": "I don’t think he really likes HER, he just wants to impress his friends;",
+  "answer": "D",
+  "type": "s"
+ },
+ "103": {
+  "question": "question: I want to convey the message that I have a strong opinion or disagreement about his feelings for her. Maybe someone else thinks that he likes her, but I don’t. Which stress pattern would be appropriate?",
+  "A": "I don’t think he really likes her, he JUST wants to impress his friends;",
+  "B": "I don’t think he really likes her, he just WANTS to impress his friends;",
+  "C": "I don’t think he really likes her, he just wants to IMPRESS his friends;",
+  "D": "I don’t think he really likes her, he just wants to impress his FRIENDS;",
+  "answer": "B",
+  "type": "s"
+ },
+ "104": {
+  "question": "question: I want to convey the message that I emphasize his motivation or intention for his actions towards her. Maybe he has a strong desire or need to impress his friends. Which stress pattern would be appropriate?",
+  "A": "I don’t think he really likes her, he JUST wants to impress his friends;",
+  "B": "I don’t think he really likes her, he just WANTS to impress his friends;",
+  "C": "I don’t think he really likes her, he just wants to IMPRESS his friends;",
+  "D": "I don’t think he really likes her, he just wants to impress his FRIENDS;",
+  "answer": "C",
+  "type": "s"
+ },
+ "105": {
+  "question": "question: I want to convey the message that I stress his audience or target for his actions towards her. Maybe he has a particular or important group of friends that he wants to impress. Which stress pattern would be appropriate?",
+  "A": "I don’t think he really likes her, he JUST wants to impress his friends;",
+  "B": "I don’t think he really likes her, he just WANTS to impress his friends;",
+  "C": "I don’t think he really likes her, he just wants to IMPRESS his friends;",
+  "D": "I don’t think he really likes her, he just wants to impress his FRIENDS;",
+  "answer": "D",
+  "type": "s"
+ },
+ "106": {
+  "question": "question: We are discussing English language learning. Which of the following statements about Breaks is incorrect?",
+  "A": "Breaks in sentences are the pauses or stops that we make when we speak or write.;",
+  "B": "Breaks can help us to organize our thoughts, to emphasize our points, to create rhythm and flow, and to avoid confusion or ambiguity.;",
+  "C": "In English, there are different types of pauses, such as short pauses, long pauses, filled pauses, and unfilled pauses.;",
+  "D": "Breaks can be used to pause the activities of English language learners.;",
+  "answer": "D",
+  "type": "b"
+ },
+ "107": {
+  "question": "question: We are discussing English language learning. Which of the following statements about pauses is incorrect?",
+  "A": "Long pauses are the long stops that we make between words or phrases in a sentence. The durations of long pauses reported range from about 1 ms to about 10 ms.;",
+  "B": "Short pauses are the brief stops that we make between words or phrases in a sentence. They can help us to separate the units of meaning or information in a sentence.;",
+  "C": "Filled pauses are the sounds that we make when we are hesitating or thinking of what to say next. They can help us to fill the silence and to signal that we are not finished speaking, such as “um”, “uh”, “er”, “well” in English.;",
+  "D": "Unfilled pauses are the silent gaps that we make when we are hesitating or thinking of what to say next. They can help us to avoid making unnecessary sounds and to show that we are confident and prepared.;",
+  "answer": "A",
+  "type": "b"
+ },
+ "108": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+  "A": "My hobbies are reading writing drawing and singing.;",
+  "B": "My hobbies are reading / writing / drawing / and singing.;",
+  "C": "My hobbies are reading writing / drawing and singing.;",
+  "D": "My hobbies / are reading writing drawing and singing.;",
+  "answer": "B",
+  "type": "b"
+ },
+ "109": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+  "A": "I went / to the library yesterday and I borrowed / three books One was a novel one was a biography and one was a guidebook I’m going to read them this weekend.;",
+  "B": "I went / to the library yesterday and I borrowed / three books One was a novel one was a biography and one was a guidebook I’m going to read them this weekend.;",
+  "C": "I went to the library yesterday / and I borrowed three books / One was a novel / one was a biography / and one was a guidebook / I’m going to read them this weekend.;",
+  "D": "I went / to the library / yesterday and I borrowed three books One was a novel one / was a biography / and one was a guidebook I’m going to read them this weekend.;",
+  "answer": "C",
+  "type": "b"
+ },
+ "110": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+  "A": "She is a very / talented and versatile / artist She can paint draw sculpt and photograph / Her works are very creative and original / She has won many awards and exhibitions.",
+  "B": "She is a very talented and versatile artist She can paint draw sculpt and photograph / Her works are very creative and original / She has won many awards and exhibitions.",
+  "C": "She is a very talented and versatile artist She can paint draw sculpt and photograph Her works are very creative and original She has won many awards and exhibitions.",
+  "D": "She is a very talented / and versatile artist / She can paint / draw / sculpt / and photograph / Her works are very creative / and original / She has won many awards / and exhibitions.;",
+  "answer": "D",
+  "type": "b"
+ },
+ "111": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+  "A": "He is not very good at math but he is excellent at English He always gets high marks on his tests and essays and he can speak fluently and confidently He wants to be an English teacher when he grows up and he is already tutoring some of his classmates.",
+  "B": "He is not very good at math / but he is excellent at English / He always gets high marks on his tests / and essays / and he can speak fluently and confidently / He wants to be an English teacher when he grows up / and he is already tutoring some of his classmates.",
+  "C": "He is not very good / at math but he is excellent / at English He always gets high marks / on his tests and essays and / he can speak fluently and confidently He wants to be an English teacher when he grows up and he is already tutoring some of his classmates.",
+  "D": "He is not very good at math / but he is excellent at English / He always gets high marks on his tests / and essays and he can speak fluently and confidently / He wants to be an English teacher / when he grows up and he is already tutoring some of his classmates.",
+  "answer": "C",
+  "type": "b"
+ },
+ "112": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+  "A": "Although she had studied hard for the exam / which was very difficult and covered a lot of material / she felt confident that she would pass it /because she had reviewed all the notes / and done all the practice questions.",
+  "B": "Although she had studied hard for the exam which was very difficult and covered a lot of material she felt confident that she would pass it because she had reviewed all the notes and done all the practice questions.",
+  "C": "Although she had studied hard / for the exam which was very difficult and covered a lot of material / she felt confident / that / she would pass it because she had reviewed all the notes and done all the practice questions.",
+  "D": "Although she / had studied hard for the exam which was very difficult and covered a lot of material / she felt confident that she would pass it because she had reviewed all the notes and done all the practice questions.",
+  "answer": "A",
+  "type": "b"
+ },
+ "113": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate?",
+  "A": "Hi (pause) my name is Li (pause) I am from Beijing and I am studying English at this school (pause) I like reading writing drawing and singing (pause) What about you (pause);",
+  "B": "Hi my name is Li I am from Beijing and I am studying English at this school I like reading writing drawing and singing what about you;",
+  "C": "Hi my name is Li (pause) I am from Beijing (pause) And I am studying English at this school (pause) I like reading (pause) Writing (pause) Drawing (pause) And singing(pause) What about you (pause);",
+  "D": "Hi my name is Li (pause) I am from Beijing (pause) And I am studying English (pause) at this school (pause) I like reading (pause) Writing (pause) Drawing (pause) And singing (pause) What about you (pause)",
+  "answer": "A",
+  "type": "b"
+ },
+ "114": {
+  "question": "question: We are discussing english learning, which pause pattern is relatively appropriate?",
+  "A": "Today I am going to talk about my favorite sport which is basketball I started playing basketball when I was 10 years old and I joined the school team when I was 15 years old basketball is a very fun and exciting sport that requires skill teamwork and strategy there are many benefits of playing basketball such as improving your health making friends and having fun;",
+  "B": "Today (pause) I am going to talk about my favorite sport (pause) which is basketball (pause) I started playing basketball when I was 10 years old and I joined the school team when I was 15 years old (pause) Basketball is a very fun and exciting sport that requires skill teamwork and strategy (pause) There are many benefits of playing basketball such as improving your health making friends and having fun (pause);",
+  "C": "Today I am going to talk about my favorite sport which is basketball I started playing basketball when I was 10 years old (pause) and I joined the school team when I was 15 years old basketball is a very fun and exciting sport (pause) that requires skill teamwork and strategy there are many benefits of playing basketball (pause) such as improving your health making friends and having fun;",
+  "D": "Today I am going to talk about my favorite sport which is basketball (pause) I started playing basketball when I was 10 years old (pause) and I joined the school team (pause) when I was 15 years old basketball is a very fun and exciting sport that (pause) requires skill teamwork and strategy there are many benefits of playing basketball such as improving your health making friends and having fun;",
+  "answer": "B",
+  "type": "b"
+ },
+ "115": {
+  "question": "question: Note that we are discussing english learning. Using too many filled pauses will bring up the following issues, except for which one?",
+  "A": "it can make it sound like you are unsure or unprepared about what you are saying.;",
+  "B": "it can make it sound like you are doubtful or hesitant about your opinion.",
+  "C": "it make it sound like you are nervous or forgetful about your identity.",
+  "D": "it can make it sound like you have finished speaking or lost your train of thought.",
+  "answer": "D",
+  "type": "b"
+ },
+ "116": {
+  "question": "question: If I say, 'Um well I uh like er reading books,' which of the following pronunciation issues does this belong to?",
+  "A": "You make mistakes in not using long pauses to indicate the end of a sentence or a paragraph;",
+  "B": "There is no pause after the sentences with a question mark and a filled pause.;",
+  "C": "You use too many filled pauses when hesitating or thinking;",
+  "D": "Your pronunciation is fine, you correctly use filled pauses to think.",
+  "answer": "C",
+  "type": "b"
+ },
+ "117": {
+  "question": "question: What is a reasonable way to use filled pauses among the following sentences?",
+  "A": "Emm let me think",
+  "B": "Well I er think that um the movie was uh very good",
+  "C": "Uh my name is er Li and I am from um Beijing",
+  "D": "Um I uh like er reading books",
+  "answer": "A",
+  "type": "b"
+ },
+ "118": {
+  "question": "question: We are discussing the topic of \"Describing your family to someone,\" which way sounds more natural? Note: The slash (/) marks a brief pause between words. The (pause) in the middle of the sentence represents a relatively long pause. The question (?) marks a rise intonation.",
+  "A": "I have a small family um there are four of us uh my parents my brother and me er my father is a doctor and my mother is a teacher well my brother is a student and he is two years younger than me um we all get along well and we love each other very much.;",
+  "B": "I have a small family (pause) There are four of us",
+  "C": "I have a small family (pause) Um there are four of us (pause) Uh my parents (pause) My brother (pause) And me (pause) Er my father is a doctor (pause) And my mother is a teacher (pause) Well my brother is a student (pause) And he is two years younger than me (pause) Um we all get along well (pause) And we love each other very much (pause);",
+  "D": "I have a small family? (pause) Um there are four of us? (pause) Uh my parents? (pause) My brother? (pause) And me? (pause) Er my father is a doctor? (pause) And my mother is a teacher? (pause) Well my brother is a student? (pause) And he is two years younger than me? (pause) Um we all get along well? (pause) And we love each other very much? (pause);",
+  "answer": "B",
+  "type": "b"
+ },
+ "119": {
+  "question": "question: Which option sounds more natural when discussing the topic of \"Explaining how to do something to someone\"? Note: The slash (/) marks a brief pause between words. The (pause) in the middle of the sentence represents a relatively long pause. The question (?) marks a rise intonation.",
+  "A": "Today I am going to show you how to make a paper airplane um it is very easy and fun and you only need one piece of paper er first you need to fold the paper in half lengthwise and then unfold it uh second you need to fold the top two corners to the center crease well third you need to fold the new corners to the center crease again.",
+  "B": "Today I am going to show you how to make a paper airplane (pause) Um it is very easy and fun / And you only need one piece of paper (pause) Er first / you need to fold the paper in half lengthwise (pause) And then unfold it (pause) Uh second / you need to fold the top two corners to the center crease (pause) Well third / you need to fold the new corners to the center crease again (pause)",
+  "C": "Today I am going to show you how to make a paper airplane (pause) It is very easy and fun / and you only need one piece of paper (pause) First / you need to fold the paper in half lengthwise / and then unfold it (pause) Second / you need to fold the top two corners to the center crease (pause) Third / you need to fold the new corners to the center crease again (pause)",
+  "D": "Today I am going to show you how to make a paper airplane? (pause) Um it is very easy and fun? (pause) And you only need one piece of paper? (pause) Er first / you need to fold the paper in half lengthwise? (pause) And then unfold it? (pause) Uh second / you need to fold the top two corners to the center crease? (pause) Well third / you need to fold the new corners to the center crease again? (pause)",
+  "answer": "C",
+  "type": "b"
+ },
+ "120": {
+  "question": "My pronunciation: ### I think that cats are better than dogs (pause) Cats are more independent and quiet / and they don’t need much attention or care (pause) Dogs are more needy and noisy / and they require a lot of time and energy (pause) I prefer animals that are calm and low-maintenance / so I like cats more than dogs (pause) ###",
+  "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
+  "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
+  "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
+  "D": "There is no problem in your pronunciation. Your use of pauses is appropriate as it helps the audience understand your thought organization, emphasizes key points, and avoids confusion and ambiguity.",
+  "answer": "D",
+  "type": "b"
+ },
+ "121": {
+  "question": "My pronunciation: ### I think that cats are better than dogs um cats are more independent and quiet and they don’t need much attention or care er dogs are more needy and noisy and they require a lot of time and energy uh I prefer animals that are calm and low-maintenance so I like cats more than dogs ###",
+  "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
+  "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
+  "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
+  "D": "There is no problem in your pronunciation. Your use of pauses is appropriate as it helps the audience understand your thought organization, emphasizes key points, and avoids confusion and ambiguity.",
+  "answer": "A",
+  "type": "b"
+ },
+ "122": {
+  "question": "My pronunciation: ### I think that cats are better than dogs (pause) Um cats are more independent and quiet (pause) And they don’t need much attention or care (pause) Er dogs are more needy and noisy (pause) And they require a lot of time and energy (pause) Uh I prefer animals that are calm / and low-maintenance (pause) So I like cats more than dogs (pause)  ###",
+  "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
+  "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
+  "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
+  "D": "There is no problem in your pronunciation. Your use of pauses is appropriate as it helps the audience understand your thought organization, emphasizes key points, and avoids confusion and ambiguity.",
+  "answer": "B",
+  "type": "b"
+ },
+ "123": {
+  "question": "question: The incorrect statement about intonation is:",
+  "A": "Intonation is the way the pitch of your voice rises and falls when you speak.;",
+  "B": "Intonation can convey different meanings and emotions, as well as indicate the type and structure of a sentence.;",
+  "C": "A rising intonation at the end of a sentence usually indicates a question, while a falling intonation indicates a statement or a command.;",
+  "D": "It is acceptable to use the same tone for every word in a sentence, regardless of the stress and rhythm of the language.;",
+  "answer": "D",
+  "type": "i"
+ },
+ "124": {
+  "question": "question: The correct statement about intonation is:",
+  "A": "Falling intonation (➘)",
+  "B": "Rising intonation (➚)",
+  "C": "Fall-rise intonation (➘➚)",
+  "D": "Rise-fall intonation (➚➘)",
+  "answer": "C",
+  "type": "i"
+ },
+ "125": {
+  "question": "question: Falling intonation (➘) is very common in wh-questions, statements, commands, and exclamations. It shows that you are certain or confident about what you are saying, or that you have finished speaking. Which intonation below is incorrect?",
+  "A": "How about going to the movies? (➘)",
+  "B": "I live in Singapore. (➘)",
+  "C": "Stop that noise! (➘)",
+  "D": "What a beautiful day! (➘)",
+  "answer": "A",
+  "type": "i"
+ },
+ "126": {
+  "question": "question: Rising intonation (➚) is often used in yes-no questions, requests, offers, suggestions, and incomplete sentences. It shows that you are unsure or polite about what you are saying, or that you want the listener to respond or continue. Which intonation below is incorrect?",
+  "A": "Do you like ice cream? (➚)",
+  "B": "Stop that noise! (➚)",
+  "C": "Would you like some coffee? (➚)",
+  "D": "I think it’s a good idea, but… (➚)",
+  "answer": "B",
+  "type": "i"
+ },
+ "127": {
+  "question": "question: Fall-rise intonation (➘➚) is used to show that you are not sure, surprised, interested, or have more to say about something. It can also indicate doubt, reservation, or contrast. Which intonation below is incorrect?",
+  "A": "Maybe we should go home. (➘➚)",
+  "B": "Really? You won the lottery? (➘➚)",
+  "C": "Obviously, he’s lying. (➘➚)",
+  "D": "Actually, I prefer tea. (➘➚)",
+  "answer": "C",
+  "type": "i"
+ },
+ "128": {
+  "question": "question: Rise-fall intonation (➚➘) is used to show that you are very emphatic, excited, or angry about something. It can also indicate sarcasm, irony, or disbelief. Which intonation below is incorrect?",
+  "A": "Absolutely not! (➚➘)",
+  "B": "That’s amazing! (➚➘)",
+  "C": "How stupid do you think I am? (➚➘)",
+  "D": "Do you like ice cream? (➚➘)",
+  "answer": "D",
+  "type": "i"
+ },
+ "129": {
+  "question": "question: Which explanation below about the intonation of the word 'really' is incorrect?",
+  "A": "Really? (➘➚) This is a question that shows surprise or disbelief.",
+  "B": "Really. (➘) This is a statement that shows certainty or agreement.",
+  "C": "Really! (➚➘) This is an exclamation that shows excitement or anger.",
+  "D": "Really. (➚) This is a statement that shows indifference or boredom.",
+  "answer": "D",
+  "type": "i"
+ },
+ "130": {
+  "question": "question: Which explanation below about the intonation of the sentence 'I don’t know' is incorrect?",
+  "A": "I don’t know. (➘) This is a statement that shows uncertainty or ignorance.",
+  "B": "I don’t know? (➚) This is a question that shows confusion or doubt.",
+  "C": "I don’t know. (➘➚) This is a statement that shows indifference or sarcasm.",
+  "D": "I don’t know! (➚➘) This is an exclamation that shows frustration or annoyance.",
+  "answer": "C",
+  "type": "i"
+ },
+ "131": {
+  "question": "question: Which explanation below about the intonation of the sentence is incorrect?",
+  "A": "He likes cats ➚ and ➘ she likes dogs.",
+  "B": "I like ice cream ➘ and ➚ I also like cake.",
+  "C": "She was tired ➘ but ➚ she still went to work.",
+  "D": "I like ice cream ➚ because ➘ it is hot today.",
+  "answer": "A",
+  "type": "i"
+ },
+ "132": {
+  "question": "question: Which explanation below about the intonation of the sentence is incorrect?",
+  "A": "Although ➘ she was tired ➚ she still went to work.",
+  "B": "They were hungry ➚ but ➘ they had no money.",
+  "C": "Ice cream, ➘ which is my favorite dessert, ➚ is very delicious.",
+  "D": "She went to work, ➘ despite being tired, ➚ and finished her project.",
+  "answer": "B",
+  "type": "i"
+ },
+ "133": {
+  "question": "What is the full form of IPA?",
+  "A": "Indian Phonetic Alphabet",
+  "B": "International Phonetic Alphabet",
+  "C": "International Phonetic Agreement",
+  "D": "Indian Phonetic Agreement",
+  "answer": "B",
+  "type": "n"
+ },
+ "134": {
+  "question": "The nucleus of the syllable is the",
+  "A": "consonant",
+  "B": "diphthong",
+  "C": "vowel",
+  "D": "fricatives",
+  "answer": "C",
+  "type": "si"
+ },
+ "135": {
+  "question": "Which of these terms refer to the study of hearing and perception of speech sounds?",
+  "A": "Articulatory phonetics",
+  "B": "Acoustic phonetics",
+  "C": "Auditory phonetics",
+  "D": "Laboratory phonetics",
+  "answer": "C",
+  "type": "n"
+ },
+ "136": {
+  "question": "What does the phonetic symbol /d/ represent?",
+  "A": "Voiced alveolar plosive",
+  "B": "Voiceless palatal plosive",
+  "C": "Voiced bilabial plosive",
+  "D": "Voiced dental fricative",
+  "answer": "A",
+  "type": "p"
+ },
+ "137": {
+  "question": "\"The degree of force with which a sound or syllable of a word is uttered\" is called",
+  "A": "intonation",
+  "B": "stress",
+  "C": "rhythm",
+  "D": "pause",
+  "answer": "C",
+  "type": "psi"
+ },
+ "138": {
+  "question": "What is the structure in the following syllable : texts?",
+  "A": "CVCC",
+  "B": "CVC",
+  "C": "CVCCC",
+  "D": "CVCCCC",
+  "answer": "C",
+  "type": "p"
+ },
+ "139": {
+  "question": "Which of the following has / i: / sound",
+  "A": "seat",
+  "B": "buy",
+  "C": "fit",
+  "D": "live",
+  "answer": "A",
+  "type": "p"
+ },
+ "140": {
+  "question": "Which of these consonants are the one whose place of articulation is the lower lip and upper teeth",
+  "A": "Bilabial",
+  "B": "Dental",
+  "C": "Labio-dental",
+  "D": "Glottal",
+  "answer": "C",
+  "type": "p"
+ },
+ "141": {
+  "question": "In which of the following process, one sound becomes more similar to a neighboring sound under the influence of it?",
+  "A": "Assimilation",
+  "B": "Dissimilation",
+  "C": "Germination",
+  "D": "De-germination",
+  "answer": "A",
+  "type": "p"
+ },
+ "142": {
+  "question": "YOUR ________ IS TOO SMALL FOR MY HANDS.",
+  "A": "/maʊθ/",
+  "B": "/maʊs/",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "B",
+  "type": "p"
+ },
+ "143": {
+  "question": "Which word has a different sound in \"th\"?",
+  "A": "smooth",
+  "B": "father",
+  "C": "either",
+  "D": "worth",
+  "answer": "D",
+  "type": "p"
+ },
+ "144": {
+  "question": "Which word is correct? Luz´s __________ hurt. She fell down when riding her bike.",
+  "A": "/niːz/ niece",
+  "B": "/niːs/ niece",
+  "C": "/niːz/ knees",
+  "D": "/niːs/ knees",
+  "answer": "C",
+  "type": "p"
+ },
+ "145": {
+  "question": "What is the word? aɪ laɪk jɔːr ­­­__________ kləʊðz.",
+  "A": "ˈkæʒjʊəl",
+  "B": "ˈkæʃʊəl",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "A",
+  "type": "p"
+ },
+ "146": {
+  "question": "What is the word? maɪ ˈʌŋkl ɪz ˈvɪzɪtɪŋ ə frɛnd ɪn ðə sɛl ɒv mɛn.",
+  "A": "cell",
+  "B": "sell",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "A",
+  "type": "p"
+ },
+ "147": {
+  "question": "Which word doesn´t have the sound \"/ʒ/\"?",
+  "A": "Occasion",
+  "B": "Measure",
+  "C": "Asia",
+  "D": "Issue",
+  "answer": "D",
+  "type": "p"
+ },
+ "148": {
+  "question": "Which word has the sound \"/dʒ/\"?",
+  "A": "Your",
+  "B": "Yale",
+  "C": "Young",
+  "D": "Fragile",
+  "answer": "D",
+  "type": "p"
+ },
+ "149": {
+  "question": "Which word´s phonemes are pronounced fully?",
+  "A": "Palm",
+  "B": "Small",
+  "C": "Corps",
+  "D": "Island",
+  "answer": "B",
+  "type": "p"
+ },
+ "150": {
+  "question": "Which word´s phonemes are pronounced fully?",
+  "A": "Autumn",
+  "B": "Comb",
+  "C": "Know",
+  "D": "Stain",
+  "answer": "D",
+  "type": "p"
+ },
+ "151": {
+  "question": "Which word doesn´t have the sound /ʃ/? US accent",
+  "A": "Chicago",
+  "B": "Nauseous",
+  "C": "Sugar",
+  "D": "Question",
+  "answer": "D",
+  "type": "p"
+ },
+ "152": {
+  "question": "Which sentence has just the sound /z/ in their words?",
+  "A": "Stella and Marcos are a nice students.",
+  "B": "This zoo doesn´t open on Thursdays.",
+  "C": "These girls love those dogs.",
+  "D": "She fell down when riding her bike.",
+  "answer": "C",
+  "type": "p"
+ },
+ "153": {
+  "question": "How to pronounce the word dove in sentence My favorite bird is the dove?",
+  "A": "/dʌv/",
+  "B": "/dəʊv/",
+  "C": "/dæd/",
+  "D": "/doʊv/",
+  "answer": "A",
+  "type": "p"
+ },
+ "154": {
+  "question": "How to pronounce the word entrance in sentence I am sure my friend will entrance my family. He´s so kinD:",
+  "A": "/inˈtraːns/",
+  "B": "/ˈen·trəns/",
+  "C": "/ˈintraːns/",
+  "D": "/enˈtrəns/",
+  "answer": "A",
+  "type": "p"
+ },
+ "155": {
+  "question": "What is the word? Luis ˈwɒntɪd tuː nəʊ wɒt ðə ˈtiːʧə ______ əˈbaʊt ˈpɒlɪtɪks.",
+  "A": "tɔːt",
+  "B": "θɔːt",
+  "C": "ʧɒp",
+  "D": "ʃɒp",
+  "answer": "B",
+  "type": "p"
+ },
+ "156": {
+  "question": "What is the word? duː juː wɒnt ə pɔːrk _______? ɪts dɪˈlɪʃəs",
+  "A": "tɔːt",
+  "B": "θɔːt",
+  "C": "ʧɒp",
+  "D": "ʃɒp",
+  "answer": "C",
+  "type": "p"
+ },
+ "157": {
+  "question": "What is the word? aɪ laɪk jɔːr _______. ðeɪ ɑːr braʊn.",
+  "A": "aɪz",
+  "B": "aɪs",
+  "C": "ˈpʌdl",
+  "D": "ˈpædl",
+  "answer": "A",
+  "type": "p"
+ },
+ "158": {
+  "question": "What is the word? ðeə(r) wɒz ə _________ ɒv ˈwɔːtə(r) nɛkst tuː ðə fɑːm.",
+  "A": "aɪz",
+  "B": "aɪs",
+  "C": "ˈpʌdl",
+  "D": "ˈpædl",
+  "answer": "C",
+  "type": "p"
+ },
+ "159": {
+  "question": "Which of the following words represents the sound /tʃ/",
+  "A": "Chuck",
+  "B": "Should",
+  "C": "July",
+  "D": "Cheers",
+  "answer": "A",
+  "type": "p"
+ },
+ "160": {
+  "question": "The phoneme /i:/ is in the words ‘deep’, ‘three’, and ‘fleece’. Which word in the list does not include the /i:/ sound?",
+  "A": "athlete",
+  "B": "beetle",
+  "C": "business",
+  "D": "thief",
+  "answer": "C",
+  "type": "p"
+ },
+ "161": {
+  "question": "The phoneme /i:/ is in the words ‘proceed’, ‘reason’, and ‘scream’. Which word in the list does not include the /i:/ sound?",
+  "A": "vaccine",
+  "B": "witness",
+  "C": "conceive",
+  "D": "leader",
+  "answer": "B",
+  "type": "p"
+ },
+ "162": {
+  "question": "The phoneme /i:/ is in the words ‘immediately’, ‘secret’, and ‘degree’. Which word does not include the /i:/ sound?",
+  "A": "increase",
+  "B": "peak",
+  "C": "believe",
+  "D": "competition",
+  "answer": "D",
+  "type": "p"
+ },
+ "163": {
+  "question": "The phoneme /ɪ/ is in the words ‘typical’, ‘liquid’, and ‘since’. Which word in the list does not include the /ɪ/ sound?",
+  "A": "build",
+  "B": "sink",
+  "C": "sheet",
+  "D": "ship",
+  "answer": "C",
+  "type": "p"
+ },
+ "164": {
+  "question": "The phoneme /ɪ/ is in the words ‘British’, ‘English’, and ‘slim’. Which word does not include the /ɪ/ sound?",
+  "A": "biscuit",
+  "B": "beat",
+  "C": "winner",
+  "D": "finish",
+  "answer": "B",
+  "type": "p"
+ },
+ "165": {
+  "question": "The phoneme /ʊ/ is in the words ‘bull’, ‘cushion’, and ‘wood’. Which word does not include the /ʊ/ sound?",
+  "A": "button",
+  "B": "push",
+  "C": "woman",
+  "D": "took",
+  "answer": "A",
+  "type": "p"
+ },
+ "166": {
+  "question": "The phoneme /ʊ/ is in the words ‘bush’, ‘crook’, and ‘football’. Which word does not include the /ʊ/ sound?",
+  "A": "look",
+  "B": "soup",
+  "C": "sugar",
+  "D": "hook",
+  "answer": "B",
+  "type": "p"
+ },
+ "167": {
+  "question": "The phoneme /u:/ is in the words ‘shampoo’, ‘soon’, and ‘blue’. Which word does not include the /u:/ sound?",
+  "A": "root",
+  "B": "tooth",
+  "C": "suite",
+  "D": "who",
+  "answer": "C",
+  "type": "n"
+ },
+ "168": {
+  "question": "The phoneme /u:/ is in the words ‘boot’, ‘moon’, and ‘Peru’. Which word does not include the /u:/ sound?",
+  "A": "two",
+  "B": "include",
+  "C": "food",
+  "D": "found",
+  "answer": "D",
+  "type": "p"
+ },
+ "169": {
+  "question": "Which of the following statements is wrong of language?",
+  "A": "All vowel sounds are produced with a stricture of open approximation.",
+  "B": "All vowel sounds are voiceless.",
+  "C": "A back vowel is produced by raising the back of the tongue towards the soft palate.",
+  "D": "Taking into account of the part of the tongue raised we can classify vowels sounds as front, back and central.",
+  "answer": "B",
+  "type": "p"
+ },
+ "170": {
+  "question": "Which of the following statements is wrong of language?",
+  "A": "In the production of a front vowel the front of the tongue is raised towards the soft palate.",
+  "B": "By raising the centre of the tongue to the part of the roof of the mouth which lies between the hard and the soft palate we can produce a central vowel.",
+  "C": "With reference to the position of the tongue we can classify vowel sounds as rounded and unrounded.",
+  "D": "The vowel sound in the English word \"can\" is a monophthong.",
+  "answer": "A",
+  "type": "p"
+ },
+ "171": {
+  "question": "/θ/ and /ð/ can occur in",
+  "A": "initial, medial and final positions",
+  "B": "only in initial and final prepositions",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "A",
+  "type": "p"
+ },
+ "172": {
+  "question": "Which word has a short vowel sound?",
+  "A": "star",
+  "B": "ball",
+  "C": "dish",
+  "D": "shoot",
+  "answer": "C",
+  "type": "p"
+ },
+ "173": {
+  "question": "Which vowel sound is different?",
+  "A": "pear",
+  "B": "fear",
+  "C": "there",
+  "D": "stare",
+  "answer": "B",
+  "type": "p"
+ },
+ "174": {
+  "question": "Which word starts with an unvoiced sound?",
+  "A": "bag",
+  "B": "road",
+  "C": "cheese",
+  "D": "music",
+  "answer": "C",
+  "type": "p"
+ },
+ "175": {
+  "question": "Which word is not a triphthong?",
+  "A": "hire",
+  "B": "player",
+  "C": "royal",
+  "D": "their",
+  "answer": "D",
+  "type": "p"
+ },
+ "176": {
+  "question": "Which sentence is semantically wrong? (No sense)",
+  "A": "Put some sugar in my milk and stir it, please!",
+  "B": "Heating children is not discipline.",
+  "C": "He watched the bird while touching his bear.",
+  "D": "Your bait is good for fishing.",
+  "answer": "B",
+  "type": "p"
+ },
+ "177": {
+  "question": "Which idea is wrong?",
+  "A": "Most nouns and adjectives with two syllables have stress on the first syllable. (e.g. table, heavy, etc)",
+  "B": "Most verbs and prepositions with two syllables have stress on the second syllable. (e.g. decide, below, etc)",
+  "C": "Content words are the key words of a sentence. They are the important words that carry the meaning or sense. (nouns, verbs, adjectives, adverbs)",
+  "D": "The features of pronunciation are the consonant and the vowel sounds.",
+  "answer": "D",
+  "type": "ps"
+ },
+ "178": {
+  "question": "What kind of word HAD is it? He HAD been to cusco twice this year.",
+  "A": "content word",
+  "B": "structure word",
+  "C": "verb",
+  "D": "participle verb",
+  "answer": "B",
+  "type": "sbi"
+ },
+ "179": {
+  "question": "Which words are the content words? You must call the police officer because the thief may escape.",
+  "A": "you-call-police officer-thief",
+  "B": "call-police officer-thief-escape",
+  "C": "must-call-police officer-thief",
+  "D": "call-policeofficer-thief",
+  "answer": "B",
+  "type": "sbi"
+ },
+ "180": {
+  "question": "What are the structure words? He will study hard for the final exams.",
+  "A": "he-will-for-the",
+  "B": "will-for-the-final",
+  "C": "he-will-hard-for-the",
+  "D": "he-for-the",
+  "answer": "A",
+  "type": "sbi"
+ },
+ "181": {
+  "question": "how do you read this statement? They will have a piece of cake tonight.",
+  "A": "ðeɪ wɪl hæv ə piːs ɒv keɪk təˈnaɪt.",
+  "B": "ðeɪ wɪl hæv ə piːz ɒv keɪk təˈnaɪt.",
+  "C": "ðeɪ wɪl hæv ə piːs ɒf keɪk təˈnaɪt.",
+  "D": "ðeɪ wɪl hæv ə piːs ɒv keɪk tuːˈnaɪt.",
+  "answer": "A",
+  "type": "ps"
+ },
+ "182": {
+  "question": "How do you read this statement? They love my brown eyes.",
+  "A": "ðeɪ lʌv maɪ braʊn aɪs.",
+  "B": "ðeɪ lʌv maɪ braʊn aɪz.",
+  "C": "ðeɪ lɔːv maɪ braʊn aɪz.",
+  "D": "ðeɪ lʌv maɪ broʊn aɪs.",
+  "answer": "B",
+  "type": "ps"
+ },
+ "183": {
+  "question": "How do you read this statement? Chicago is a nice place in autumn.",
+  "A": "tʃɪˈkɑːgəʊ ɪz ə naɪs pleɪs ɪn ˈɔːtəm.",
+  "B": "ʃɪˈkɑːgəʊ ɪs ə naɪs pleɪs ɪn ˈɔːtəm.",
+  "C": "ʃɪˈkɑːgəʊ ɪz ə naɪs pleɪs ɪn ˈɔːtəm.",
+  "D": "ʃɪˈkɑːgəʊ ɪz ə naɪs pleɪz ɪn ˈɔːtəm.",
+  "answer": "C",
+  "type": "ps"
+ },
+ "184": {
+  "question": "How do you read this statement? His exam was a present for his birthday.",
+  "A": "hɪz ɪgˈzæm wɒs ə ˈprɛznt fɔː hɪz ˈbɜː(r)θdeɪ.",
+  "B": "hɪz ɪksˈzæm wɒz ə ˈprɛznt fɔː hɪz ˈbɜː(r)θdeɪ.",
+  "C": "hɪz ɪgˈzæm wɒz ə ˈprɛznt fɔː hɪz ˈbɜː(r)θdeɪ.",
+  "D": "hɪz ɪgˈzæm wɒz ə ˈprɛznt fɔː hɪz ˈbiː(r)θdeɪ.",
+  "answer": "C",
+  "type": "ps"
+ },
+ "185": {
+  "question": "What is the spelling of the words # my, far #: \"Oh my beautiful mother. She told me, 'Son in life you're gonna go far.'\"",
+  "A": "maɪ / fɑr",
+  "B": "mɑi / fɑr",
+  "C": "mɑi / far",
+  "D": "mɑɪ / fɑr",
+  "answer": "A",
+  "type": "ps"
+ },
+ "186": {
+  "question": "What is the spelling of the words # horizon, bright #: \"Over the horizon is another bright sky. Oh, my my how beautiful.\"",
+  "A": "həˈraɪzən / bræɪt",
+  "B": "həˈræizən / brait",
+  "C": "həˈrɑizən / brɑɪt",
+  "D": "həˈraɪzən / braɪt",
+  "answer": "D",
+  "type": "ps"
+ },
+ "187": {
+  "question": "What is the spelling for the words # dark, absence, necessary #: \"He told me, 'Son sometimes it may seem dark. But the absence of the light is a necessary part.'\"",
+  "A": "dɑrk / ˈæbsəns / ˈnɛsəˌsɛrɪ",
+  "B": "dɑrk / ˈæbsəns / ˈnɛsəˌsɛri",
+  "C": "dærk / ˈɑbsəns / ˈnɛsəˌsɛri",
+  "D": "dærk / ˈɑbsəns / ˈnɛsəˌsɛrɪ",
+  "answer": "B",
+  "type": "ps"
+ },
+ "188": {
+  "question": "What is the spelling of the words # barricades, hate #: \"People build their barricades out of jealousy and hate\"",
+  "A": "ˈbærəˌkeɪdz / heɪt",
+  "B": "ˈbɑrəˌkeidz / heit",
+  "C": "ˈbærəˌkeidz / heɪt",
+  "D": "ˈbɑrəˌkeɪdz / heɪt",
+  "answer": "A",
+  "type": "ps"
+ },
+ "189": {
+  "question": "What is the spelling of the words # sailing, tear, together #: \"Ah, nothing can tear us apart. Sailing on a stormy sea, we’re together you and me.\"",
+  "A": "seilɪŋ / tɛr / təˈgeðər",
+  "B": "seɪliŋ / tɛr / təˈgɛðər",
+  "C": "seɪlɪŋ / tɛr / təˈgɛðər",
+  "D": "seɪlɪŋ / ter / təˈgɛðər",
+  "answer": "C",
+  "type": "ps"
+ },
+ "190": {
+  "question": "What's the spelling of the words # castles, hands #: \"We build castles with our hands, on a solid ground they stanD:\"",
+  "A": "‘kæsəlz / hɑndz",
+  "B": "‘kɑsəlz / hændz",
+  "C": "ˈkɑsəlz / hɑndz",
+  "D": "ˈkæsəlz / hændz",
+  "answer": "D",
+  "type": "ps"
+ },
+ "191": {
+  "question": "What's the spelling of the words # shelter, safe #: \"They’re our shelter from the storm, to keep us safe and keep us warm.\"",
+  "A": "ˈʃeltər / seɪf",
+  "B": "ˈʃɛltər / seif",
+  "C": "ˈʃɛltər / sɛɪf",
+  "D": "ˈʃɛltər / seɪf",
+  "answer": "D",
+  "type": "ps"
+ },
+ "192": {
+  "question": "What's the spelling of the words # this, meant #: \"This is how it’s meant to be, we’re together you and me\"",
+  "A": "ðis / mɛnt",
+  "B": "ðɪs / ment",
+  "C": "ðɪs / mɛnt",
+  "D": "ðis / ment",
+  "answer": "C",
+  "type": "ps"
+ },
+ "193": {
+  "question": "What's the spelling of the words # always, hand #: \"There is always a hand that you can hold on to.\"",
+  "A": "ˈɔlˌweɪz / hɑnd",
+  "B": "ˈɔlˌweɪz / hænd",
+  "C": "ˈɔlˌweɪz / hand",
+  "D": "ˈɔlˌwɛɪz / hænd",
+  "answer": "B",
+  "type": "ps"
+ },
+ "194": {
+  "question": "What's the spelling for the word never: \"You're never alone\"",
+  "A": "ˈnəvɛr",
+  "B": "ˈnɛvɛr",
+  "C": "ˈnɛvər",
+  "D": "ˈnever",
+  "answer": "C",
+  "type": "ps"
+ },
+ "195": {
+  "question": "Which of these words sounds differently?",
+  "A": "Now",
+  "B": "Know",
+  "C": "How",
+  "D": "Cow",
+  "answer": "B",
+  "type": "p"
+ },
+ "196": {
+  "question": "Which of these words sounds differently?",
+  "A": "Cup",
+  "B": "Luck",
+  "C": "Turn",
+  "D": "Club",
+  "answer": "C",
+  "type": "p"
+ },
+ "197": {
+  "question": "How many individual sounds do we have in the word \"teacher\"?",
+  "A": "three",
+  "B": "four",
+  "C": "five",
+  "D": "six",
+  "answer": "B",
+  "type": "p"
+ },
+ "198": {
+  "question": "Which of these words has a long \"o\" sound?",
+  "A": "Call",
+  "B": "Fir",
+  "C": "Go",
+  "D": "Rock",
+  "answer": "A",
+  "type": "p"
+ },
+ "199": {
+  "question": "What is a consonant blend?",
+  "A": "Two letters, that are not vowels. Example: BL",
+  "B": "Two vowels. Example: AE",
+  "C": "One vowel and consonant. Example: AC",
+  "D": "Three letters. Example: BAD",
+  "answer": "A",
+  "type": "p"
+ },
+ "200": {
+  "question": "The branch of Linguistics that studies the human speech sound",
+  "A": "Morphology",
+  "B": "Phonetics",
+  "C": "Semantics",
+  "D": "Sociolinguistics",
+  "answer": "B",
+  "type": "n"
+ },
+ "201": {
+  "question": "The branch of Phonetics that focuses how speech sounds are produced in our speech organ",
+  "A": "Phonetician",
+  "B": "Articulatory Phonetics",
+  "C": "Acoustic Phonetics",
+  "D": "Auditory Phonetics",
+  "answer": "B",
+  "type": "n"
+ },
+ "202": {
+  "question": "In producing consonants, we should think about these features, except from",
+  "A": "the manner of articulation",
+  "B": "the voiced distiction",
+  "C": "the place of articulation",
+  "D": "the way of speaking",
+  "answer": "d",
+  "type": "p"
+ },
+ "203": {
+  "question": "The sounds [f] and [v] are produced by using the upper teeth and",
+  "A": "the upper larynx",
+  "B": "the tip the tongue",
+  "C": "the nasal cavity",
+  "D": "the lower lip",
+  "answer": "D",
+  "type": "p"
+ },
+ "204": {
+  "question": "The sounds [n], [t], [l], [z] and _________ are produced by using the tongue tip to alveolar ridge.",
+  "A": "[d], [m]",
+  "B": "[h], [g]",
+  "C": "[d], [r]",
+  "D": "[s], [j]",
+  "answer": "C",
+  "type": "p"
+ },
+ "205": {
+  "question": "The sound [ θ ] we can find in the the words:",
+  "A": "slash, smash",
+  "B": "star, light",
+  "C": "slang, swing",
+  "D": "thank, think",
+  "answer": "D",
+  "type": "p"
+ },
+ "206": {
+  "question": "The sound [i:]  is found in the the word:",
+  "A": "key",
+  "B": "bid",
+  "C": "light",
+  "D": "hit",
+  "answer": "A",
+  "type": "p"
+ },
+ "207": {
+  "question": "Two kinds of words showing the difference in spelling and meaning but having the same pronunciation are called",
+  "A": "synonymns",
+  "B": "antonyms",
+  "C": "homonyms",
+  "D": "homophones",
+  "answer": "D",
+  "type": "n"
+ },
+ "208": {
+  "question": "In the first part of the following words, we can find the kinds of consonants that belong to Nasals.",
+  "A": "raise, tongue",
+  "B": "nose, light",
+  "C": "liquids, flow",
+  "D": "mango, nice",
+  "answer": "D",
+  "type": "p"
+ },
+ "209": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Select the word which contains this stress pattern: Oo",
+  "A": "today",
+  "B": "tomorrow",
+  "C": "Monday",
+  "D": "Apple",
+  "answer": "C",
+  "type": "s"
+ },
+ "210": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Select the word which contains this stress pattern: oO",
+  "A": "April",
+  "B": "seventy",
+  "C": "thirteen",
+  "D": "Apple",
+  "answer": "C",
+  "type": "s"
+ },
+ "211": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Select the word which contains this stress pattern: Ooo",
+  "A": "second",
+  "B": "saturday",
+  "C": "October",
+  "D": "Apple",
+  "answer": "B",
+  "type": "s"
+ },
+ "212": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Select the word which contains this stress pattern: oOo",
+  "A": "eleventh",
+  "B": "afternoon",
+  "C": "July",
+  "D": "Apple",
+  "answer": "A",
+  "type": "s"
+ },
+ "213": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Complete the sentence with the correct worD: Take into account the stress pattern. I´m going to have a party on _________ (Ooo)",
+  "A": "July",
+  "B": "Saturday",
+  "C": "Monday",
+  "D": "Apple",
+  "answer": "B",
+  "type": "s"
+ },
+ "214": {
+  "question": "The large circle (o) for the main stress and The small circle (0) for the unstressed syllables. Complete the sentence with the correct worD: Take into account the stress pattern. I often sleep for an hour in the _________ (ooO)",
+  "A": "holiday",
+  "B": "day",
+  "C": "afternoon",
+  "D": "apple",
+  "answer": "C",
+  "type": "s"
+ },
+ "215": {
+  "question": "Patterns of consonants and vowels of \"disestablishment\" is",
+  "A": "CVCVCCVCCVCCVC",
+  "B": "CVCVCCVCCVCCVCC",
+  "C": "CVCVCVCCVCCVCC",
+  "D": "CVCVCVC",
+  "answer": "B",
+  "type": "p"
+ },
+ "216": {
+  "question": "What is the characteristic of diphthongs?",
+  "A": "It is a combination between one consonant and a vowel.",
+  "B": "There are at least 2 vowel sounds and a consonant.",
+  "C": "There are 3 vowel sounds.",
+  "D": "There are 2 vowel sounds.",
+  "answer": "D",
+  "type": "n"
+ },
+ "217": {
+  "question": "Patterns of consonants and vowels for the word \"sculpture\" is",
+  "A": "CCVCCCV",
+  "B": "CCVCCCVCV",
+  "C": "CCVCCV",
+  "D": "CCVCCVC",
+  "answer": "A",
+  "type": "p"
+ },
+ "218": {
+  "question": "Which of the following choices has a tense vowel?",
+  "A": "Pie",
+  "B": "Neck",
+  "C": "Shut",
+  "D": "get",
+  "answer": "A",
+  "type": "p"
+ },
+ "219": {
+  "question": "Phonemes that have alternative phonetic realizations are called",
+  "A": "Minimal pairs",
+  "B": "Onset",
+  "C": "Rhyme",
+  "D": "Allophones",
+  "answer": "D",
+  "type": "n"
+ },
+ "220": {
+  "question": "When we study changes in pronunciation undergone by allomorphophs of a morpheme as neighboring sounds modify them, we are covering \"morphophonemics.\"",
+  "A": "True",
+  "B": "Partially False",
+  "C": "False",
+  "D": "Partially True",
+  "answer": "A",
+  "type": "p"
+ },
+ "221": {
+  "question": "Which manner of articulation will the sound be produced with the airflow channeled into the nasal passages?",
+  "A": "Nasal",
+  "B": "Affricate",
+  "C": "Liquids",
+  "D": "stops",
+  "answer": "A",
+  "type": "p"
+ },
+ "222": {
+  "question": "Which of the following words has a lax vowel?",
+  "A": "Script",
+  "B": "Food",
+  "C": "Ski",
+  "D": "horse",
+  "answer": "A",
+  "type": "p"
+ },
+ "223": {
+  "question": "The place of articulation for /f/ is ___________. This kind of sound is made with the lower lip and the upper teeth.",
+  "A": "Labiodental",
+  "B": "Alveolar",
+  "C": "Interdental",
+  "D": "Bilabial",
+  "answer": "A",
+  "type": "p"
+ },
+ "224": {
+  "question": "Which of the following pairs correctly complies with the order of Voiced and Voiceless sound",
+  "A": "Kill and Gill",
+  "B": "Vile and Bile",
+  "C": "Zest and Jest",
+  "D": "Dime and time",
+  "answer": "D",
+  "type": "p"
+ },
+ "225": {
+  "question": "The branch of linguistics that studies human speech and concerns with the physical properties of the sound is",
+  "A": "Phonetics",
+  "B": "Acoustics",
+  "C": "Articulation",
+  "D": "Phonology",
+  "answer": "A",
+  "type": "n"
+ },
+ "226": {
+  "question": "___________ are the abstractions of speech unit which differ one meaning from another.",
+  "A": "Segments",
+  "B": "Morphemes",
+  "C": "Phonemes",
+  "D": "Orthography",
+  "answer": "C",
+  "type": "n"
+ },
+ "227": {
+  "question": "The words below are all affricates, except",
+  "A": "Watch",
+  "B": "Loch",
+  "C": "Screech",
+  "D": "Judge",
+  "answer": "B",
+  "type": "p"
+ },
+ "228": {
+  "question": "Which one of the following words that violates the phonological rules of English language?",
+  "A": "Strock",
+  "B": "Gnome",
+  "C": "Scheel",
+  "D": "Mblath",
+  "answer": "D",
+  "type": "p"
+ },
+ "229": {
+  "question": "The sound of the word \"___________\" is interdental.",
+  "A": "Chunk",
+  "B": "Grudge",
+  "C": "Dime",
+  "D": "Thick",
+  "answer": "D",
+  "type": "p"
+ },
+ "230": {
+  "question": "The speech sounds produced by pushing the air stream through the mouth are called",
+  "A": "Labial sounds",
+  "B": "Nasal sounds",
+  "C": "Oral sounds",
+  "D": "Dental sounds",
+  "answer": "C",
+  "type": "p"
+ },
+ "231": {
+  "question": "The study of human speech sounds in a language that form systematized patterns is called",
+  "A": "Phonetics",
+  "B": "Acoustics",
+  "C": "Articulation",
+  "D": "Phonology",
+  "answer": "D",
+  "type": "n"
+ },
+ "232": {
+  "question": "Orthography is",
+  "A": "The pronunciation of a word that represents the alphabetic spelling",
+  "B": "The articulation of the alphabetic spelling of a word which produces the pronunciation",
+  "C": "The production of any speech sound via human speech organs",
+  "D": "The alphabetic spelling of words that represent the way they are pronounced",
+  "answer": "D",
+  "type": "n"
+ },
+ "233": {
+  "question": "The word \"changeling\" is an example of ___________ sounD:",
+  "A": "Oral",
+  "B": "Nasal",
+  "C": "Labial",
+  "D": "Palatal",
+  "answer": "B",
+  "type": "p"
+ },
+ "234": {
+  "question": "What is the name given to the smallest unit of speech?",
+  "A": "Syllable",
+  "B": "Letter",
+  "C": "Sound",
+  "D": "Phoneme",
+  "answer": "D",
+  "type": "n"
+ },
+ "235": {
+  "question": "Which of the following options is a passive articulator?",
+  "A": "Tongue",
+  "B": "Soft palate",
+  "C": "Upper jaw",
+  "D": "Upper lip",
+  "answer": "C",
+  "type": "n"
+ },
+ "236": {
+  "question": "Why is a phoneme meaningful?",
+  "A": "If you change it you change the accent.",
+  "B": "If you change it you change a worD",
+  "C": "If you change the phoneme, meaning does not change",
+  "D": "If you change it you change the allophone.",
+  "answer": "B",
+  "type": "n"
+ },
+ "237": {
+  "question": "Which of the following is an active articulator?",
+  "A": "Hard palate",
+  "B": "Tongue",
+  "C": "Lower teeth",
+  "D": "Alveolar ridge",
+  "answer": "B",
+  "type": "n"
+ },
+ "238": {
+  "question": "Which is the speech organ responsible for changing an oral sound into a nasal sound?",
+  "A": "Soft palate or velum",
+  "B": "Uvula",
+  "C": "Larynx",
+  "D": "Nose",
+  "answer": "A",
+  "type": "p"
+ },
+ "239": {
+  "question": "Where are the vocal folds?",
+  "A": "In the pharynx",
+  "B": "In the larynx",
+  "C": "In the nose cavity",
+  "D": "In the oral cavity",
+  "answer": "B",
+  "type": "n"
+ },
+ "240": {
+  "question": "The space between the vocal folds is called",
+  "A": "Glottis",
+  "B": "Larynx",
+  "C": "Epiglottis",
+  "D": "Uvula",
+  "answer": "A",
+  "type": "n"
+ },
+ "241": {
+  "question": "The nasal sounds are",
+  "A": "All the English sounds",
+  "B": "More than oral sounds",
+  "C": "Non existent in english",
+  "D": "Less than oral sounds",
+  "answer": "D",
+  "type": "n"
+ },
+ "242": {
+  "question": "Choose the best description for the first sound in the American pronunciation of the word 'teeth.'",
+  "A": "Labial",
+  "B": "Dental",
+  "C": "Alveolar",
+  "D": "Alveopalatal",
+  "answer": "C",
+  "type": "p"
+ },
+ "243": {
+  "question": "Choose the best description for the first sound in the American pronunciation of the word 'teeth.'",
+  "A": "Stop",
+  "B": "Fricative",
+  "C": "Nasal",
+  "D": "Lateral",
+  "answer": "A",
+  "type": "p"
+ },
+ "244": {
+  "question": "Choose the best description for the vowel sound in the American pronunciation of the word 'teeth.'",
+  "A": "High back lax",
+  "B": "Low central",
+  "C": "High front lax",
+  "D": "High front",
+  "answer": "D",
+  "type": "p"
+ },
+ "245": {
+  "question": "Choose the best description for the first sound in the American pronunciation of the word 'gnat.'",
+  "A": "Voiced velar stop",
+  "B": "Voiced alveolar nasal",
+  "C": "Voiced alveolar stop",
+  "D": "Voiceless alveolar nasal",
+  "answer": "B",
+  "type": "p"
+ },
+ "246": {
+  "question": "Choose the best description for the vowel sound in the American pronunciation of the word 'gnat.'",
+  "A": "High front lax",
+  "B": "Mid front lax",
+  "C": "Low front",
+  "D": "Mid back lax",
+  "answer": "C",
+  "type": "p"
+ },
+ "247": {
+  "question": "Choose the best description for the first sound in the American pronunciation of the word 'cask.'",
+  "A": "Voiced aspirated alveolar stop",
+  "B": "Voiced alveolar stop",
+  "C": "Voiceless alveolar fricative",
+  "D": "Voiceless aspirated velar stop",
+  "answer": "D",
+  "type": "p"
+ },
+ "248": {
+  "question": "Choose the best description for the last sound in the American pronunciation of the word 'cask.'",
+  "A": "Voiced aspirated alveolar stop",
+  "B": "Voiceless alveolar fricative",
+  "C": "Voiceless aspirated velar stop",
+  "D": "Voiceless velar stop",
+  "answer": "D",
+  "type": "p"
+ },
+ "249": {
+  "question": "Choose the best description for the second-to-last sound in the American pronunciation of the word 'cask.'",
+  "A": "Voiced aspirated alveolar stop",
+  "B": "Voiced alveolar stop",
+  "C": "Voiceless alveolar fricative",
+  "D": "Voiceless aspirated velar stop",
+  "answer": "C",
+  "type": "p"
+ },
+ "250": {
+  "question": "Choose the best description for the second-to-last sound in the American pronunciation of the word 'true'",
+  "A": "High front rounded",
+  "B": "Mid front unrounded",
+  "C": "Low central rounded",
+  "D": "High back rounded",
+  "answer": "D",
+  "type": "p"
+ },
+ "251": {
+  "question": "A phoneme is",
+  "A": "A set of rules to describe the patterns of linguistics use",
+  "B": "The study of the sounds of language",
+  "C": "A class of functionally equivalent sounds",
+  "D": "A set of speech sounds that produce meaning",
+  "answer": "C",
+  "type": "n"
+ },
+ "252": {
+  "question": "Speech sounds are called",
+  "A": "Phonemes",
+  "B": "Phonetics",
+  "C": "Phonology",
+  "D": "Phones",
+  "answer": "D",
+  "type": "n"
+ },
+ "253": {
+  "question": "The study of how words are put together is",
+  "A": "Syntax",
+  "B": "Morphology",
+  "C": "Phonology",
+  "D": "Semantics",
+  "answer": "B",
+  "type": "n"
+ },
+ "254": {
+  "question": "The study of phonology includes which topic?",
+  "A": "Examining individual language sound patterns",
+  "B": "Mapping out the possible ways that humans use speech organs to create sounds",
+  "C": "Analyzing words to discover their meaningful parts",
+  "D": "Both A and B",
+  "answer": "D",
+  "type": "n"
+ },
+ "255": {
+  "question": "The minimal unit of meaning in a language is a(n)",
+  "A": "Morpheme",
+  "B": "Phoneme",
+  "C": "Allophone",
+  "D": "Phone",
+  "answer": "A",
+  "type": "n"
+ },
+ "256": {
+  "question": "How a sentence is structured is called",
+  "A": "Grammar",
+  "B": "Syntax",
+  "C": "Semantics",
+  "D": "Phonology",
+  "answer": "B",
+  "type": "n"
+ },
+ "257": {
+  "question": "The English words through and threw are examples of",
+  "A": "Automymy",
+  "B": "Polysemy",
+  "C": "Synonymy",
+  "D": "Homophony",
+  "answer": "C",
+  "type": "n"
+ },
+ "258": {
+  "question": "The study of meaning in linguistic anthropology is called",
+  "A": "Pragmatics",
+  "B": "Phonology",
+  "C": "Morphology",
+  "D": "Semantics",
+  "answer": "D",
+  "type": "n"
+ },
+ "259": {
+  "question": "Additional meanings that derive from the typical contexts in which they are used in everyday speech are known as",
+  "A": "Connotations",
+  "B": "Annotations",
+  "C": "Denotations",
+  "D": "Permutations",
+  "answer": "A",
+  "type": "n"
+ },
+ "260": {
+  "question": "Phonology is:",
+  "A": "the study of sounds used in language",
+  "B": "the rules for how sounds are combined to make sense in a language",
+  "C": "another word for syntax",
+  "D": "prefixes and suffixes of words",
+  "answer": "A",
+  "type": "n"
+ },
+ "261": {
+  "question": "The smallest unit of sound that can be altered to change the meaning of a word is called a:",
+  "A": "morpheme",
+  "B": "bound morpheme",
+  "C": "phoneme",
+  "D": "none of the above",
+  "answer": "C",
+  "type": "n"
+ },
+ "262": {
+  "question": "The initial sounds in the English words pill, sill, and till are different:",
+  "A": "phonemes",
+  "B": "morphemes",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "A",
+  "type": "n"
+ },
+ "263": {
+  "question": "Which of the following statements is true about languages?",
+  "A": "All languages use essentially the same number of sounds.",
+  "B": "All native speakers of a language learn the basic rules of grammar in school.",
+  "C": "While different languages may use different phonemes, they all essentially share the same syntax.",
+  "D": "none of the above.",
+  "answer": "D",
+  "type": "n"
+ },
+ "264": {
+  "question": "The English word \"fig\" is a:",
+  "A": "morpheme",
+  "B": "bound morpheme",
+  "C": "phoneme",
+  "D": "none of the above",
+  "answer": "A",
+  "type": "n"
+ },
+ "265": {
+  "question": "The meaning of words and phrases in the Mandarin Chinese language is mostly altered by changing:",
+  "A": "word order",
+  "B": "tones of sounds",
+  "C": "prefixes and suffixes of words",
+  "D": "",
+  "answer": "B",
+  "type": "n"
+ },
+ "266": {
+  "question": "Grammar consists of:",
+  "A": "morphology",
+  "B": "syntax",
+  "C": "phonology",
+  "D": "A and B",
+  "answer": "D",
+  "type": "n"
+ },
+ "267": {
+  "question": "Which of the following statements is true of language?",
+  "A": "Native speakers do not have to memorize all possible sentences that can be create.",
+  "B": "All languages have logical rules.",
+  "C": "If your language does not have some of the sounds of another language, it is usually difficult for you to hear the differences and to pronounce them correctly.",
+  "D": "all of the above",
+  "answer": "D",
+  "type": "n"
+ },
+ "268": {
+  "question": "Which of the following statements is correct concerning the way different languages alter meaning?",
+  "A": "In Latin derived languages, the word order is not usually as important as some other factors in altering meaning.",
+  "B": "In English, word order is particularly critical to changing meaning.",
+  "C": "both of the above",
+  "D": "neither of the above",
+  "answer": "C",
+  "type": "n"
+ },
+ "269": {
+  "question": "1The phoneme /ə/ is used only is _____________ syllables.",
+  "A": "stressed",
+  "B": "unstressed",
+  "C": "both stressed and unstressed",
+  "D": "none of the above",
+  "answer": "B",
+  "type": "s"
+ },
+ "270": {
+  "question": "In the articulation of nasal sounds, the ________ is lowered, and the air passes through the nose.",
+  "A": "hard palate",
+  "B": "tongue",
+  "C": "upper lip",
+  "D": "soft palate",
+  "answer": "D",
+  "type": "p"
+ },
+ "271": {
+  "question": "Which of the following statements is true?",
+  "A": "Strong and weak forms are used only with grammatical and monosyllabic words.",
+  "B": "All the words in a sentence are stresse",
+  "C": "Monosyllabic words are often stresse",
+  "D": "Contracted forms of auxiliary verbs are always stresse",
+  "answer": "A",
+  "type": "s"
+ },
+ "272": {
+  "question": "Which of the following words does not make use of long vowel?",
+  "A": "bird",
+  "B": "cool",
+  "C": "hat",
+  "D": "call",
+  "answer": "C",
+  "type": "p"
+ },
+ "273": {
+  "question": "Which of the following statements is NOT true?",
+  "A": "All the words in a sentence are uttered with the same stress.",
+  "B": "All the words in a sentence are not uttered with the same stress.",
+  "C": "The content words in a sentence are always stresse.",
+  "D": "The choice of words to stress depends on the speaker’s intention.",
+  "answer": "A",
+  "type": "s"
+ },
+ "274": {
+  "question": "Intonations are also known as ___________",
+  "A": "tunes",
+  "B": "contours",
+  "C": "patterns",
+  "D": "all the above",
+  "answer": "D",
+  "type": "i"
+ },
+ "275": {
+  "question": "Recognize the tone used in the following sentence: When would it suit you to come?",
+  "A": "rising",
+  "B": "falling",
+  "C": "rising-falling",
+  "D": "rising-falling",
+  "answer": "A",
+  "type": "i"
+ },
+ "276": {
+  "question": "Recognize the tone used in the following sentence: I was very glaD:",
+  "A": "rising",
+  "B": "falling",
+  "C": "rising-falling",
+  "D": "falling-rising",
+  "answer": "B",
+  "type": "i"
+ },
+ "277": {
+  "question": "Recognize the tone used in the following sentence: I liked it very much.",
+  "A": "rising",
+  "B": "falling",
+  "C": "rising-falling",
+  "D": "falling-rising",
+  "answer": "B",
+  "type": "i"
+ },
+ "278": {
+  "question": "Recognize the tone used in the following sentence: John is a good boy.",
+  "A": "rising",
+  "B": "falling",
+  "C": "rising-falling",
+  "D": "falling-rising",
+  "answer": "D",
+  "type": "i"
+ },
+ "279": {
+  "question": "Recognize the tone used in the following sentence: Yes, it is nasty.",
+  "A": "rising",
+  "B": "falling",
+  "C": "rising-falling",
+  "D": "falling-rising",
+  "answer": "C",
+  "type": "i"
+ },
+ "280": {
+  "question": "Recognize the tone used in the following sentence: When would it suit you to come?",
+  "A": "rising",
+  "C": "rising-falling",
+  "B": "falling",
+  "D": "falling-rising",
+  "answer": "A",
+  "type": "i"
+ },
+ "281": {
+  "question": "What does sentence stress depend on?",
+  "A": "Sentence stress depends on what words the speaker thinks important. They are stresseD",
+  "B": "Sentence stress depends on the length of the words useD",
+  "C": "Sentence stress depends on the speaker's mood or emotions. If the speaker is happy, they will stress different words compared to when they are saD",
+  "D": "Sentence stress depends on the grammatical structure of the sentence. Certain sentence structures automatically determine which words should be stresseD",
+  "answer": "A",
+  "type": "s"
+ },
+ "282": {
+  "question": "His uncle sent him to school. Which words are normally stressed?",
+  "A": "His and to",
+  "B": "Uncle, sent and school.",
+  "C": "Him and school",
+  "D": "Uncle and to",
+  "answer": "B",
+  "type": "s"
+ },
+ "283": {
+  "question": "What is the normal intonation of this sentence? His uncle sent him to school.",
+  "A": "A steadily rising pitch, with a sharp rise on school.",
+  "B": "A flat pitch throughout the sentence, with no change in intonation.",
+  "C": "A rising and falling pitch, with no particular emphasis on any word in the sentence.",
+  "D": "A steadily falling pitch, with a sharp fall on school.",
+  "answer": "D",
+  "type": "i"
+ },
+ "284": {
+  "question": "What is intonation and what is its function?",
+  "A": "Intonation is the speed at which a sentence is spoken. It helps the listener understand the meaning of the sentence.",
+  "B": "Intonation is the volume of a sentence. It helps the listener hear the words more clearly.",
+  "C": "Intonation is the variation of pitch in the sentence. It reflects the attitlflde of the speaker to what he says.",
+  "D": "Intonation is the use of hand gestures while speaking. It helps the listener understand the speaker's message.",
+  "answer": "C",
+  "type": "i"
+ },
+ "285": {
+  "question": "In which two ways can you intone the last stressed syllable in What's the time?",
+  "A": "Time here can only have a rising tone.",
+  "B": "Time here can only have a falling tone.",
+  "C": "Time here can have a rising tone, a falling tone, or a flat tone.",
+  "D": "Time here can have a falling or a rising tone.",
+  "answer": "D",
+  "type": "i"
+ },
+ "286": {
+  "question": "What happens to the unstressed syllables after the last stressed syllable of a sentence if this is on a falling tone?",
+  "A": "The following unstressed ones are said on the lowest level of the voice.",
+  "B": "The following unstressed ones are said on the mid level of the voice.",
+  "C": "The following unstressed ones are said on the highest level of the voice.",
+  "D": "The following unstressed ones are said on the any level of the voice.",
+  "answer": "A",
+  "type": "s"
+ },
+ "287": {
+  "question": "What happens to the unstressed syllables after the last stressed syllable of a sentence when this is on a level or rising tone?",
+  "A": "The following unstressed syllables are said on the rising tone.",
+  "B": "The following unstressed syllables follow in their way and go on rising or are on a high tone.",
+  "C": "The following unstressed syllables are said on the falling tone.",
+  "D": "The following unstressed syllables follow in their way and then go on falling or are on a low tone.",
+  "answer": "B",
+  "type": "s"
+ },
+ "288": {
+  "question": "\"What's the time?\", he askeD: What is the tone of he asked if the question ends on a rising tone?",
+  "A": "If a quotation ends on a rising tone, 'he asked' are said on a low pitch.",
+  "B": "If a quotation ends on a rising tone, 'he asked' are said on a level tone.",
+  "C": "If a quotation ends on a rising tone, 'he asked' are said on a rising tone.",
+  "D": "If a quotation ends on a rising tone, 'he asked' are said on a falling tone.",
+  "answer": "C",
+  "type": "i"
+ },
+ "289": {
+  "question": "\"What's the time?\", he askeD: What is the tone of he asked if the question ends on a falling tone?",
+  "A": "If a quotation ends in a falling tone, 'he asked' are said on a level tone.",
+  "B": "If a quotation ends in a falling tone, 'he asked' are said on a lrising tone.",
+  "C": "If a quotation ends in a falling tone, 'he asked' are said on a falling tone.",
+  "D": "If a quotation ends in a falling tone, 'he asked' are said on a low pitch.",
+  "answer": "D",
+  "type": "i"
+ },
+ "290": {
+  "question": "\"What's the time?\", he asked, wondering how long they had been there. What is the tone of the participle construction qualifying he asked: 1) if he asked is on a low tone; 2) if it is on a high or rising tone? Which of the following statements is true?",
+  "A": "If he asked is on a low pitch, the participle construction qualifying it is also on a low pitch, although it may start on a slightly raised tone.",
+  "B": "If he asked is on a rising tone, this participle construction is on a high level tone. It never ends with a sharp fall in this position.",
+  "C": "only A",
+  "D": "A and B",
+  "answer": "D",
+  "type": "i"
+ },
+ "291": {
+  "question": "What is the tone of \"he asked\" when it precedes the quotation: He thought for a moment and then asked: \"What's the time?\"?",
+  "A": "In that case \"he asked\" is on mid level tone.",
+  "B": "In that case \"he asked\" is on a sharply falling tone.",
+  "C": "In that case \"he asked\" is on a level tone, somewhat lower than the pitch of the preceding part of the main sentence.",
+  "D": "In that case \"he asked\" is on a sharply rising tone.",
+  "answer": "A",
+  "type": "i"
+ },
+ "292": {
+  "question": "What is the tone of \"he said\" when it occurs in parentheses in the middle of a sentence with a falling tone, for instance: \"And when\" - he asked - \"do you intend to go there?\"",
+  "A": "In that case \"he asked\" is on mid level tone.",
+  "B": "In that case \"he asked\" is on a sharply falling tone.",
+  "C": "In that case \"he asked\" is on a level tone, somewhat lower than the pitch of the preceding part of the main sentence.",
+  "D": "In that case \"he asked\" is on a sharply rising tone.",
+  "answer": "C",
+  "type": "i"
+ },
+ "293": {
+  "question": "His uncle sent him to school. If you read this sentence with his on a high tone and all the rest on a low tone, what is implied?",
+  "A": "his uncle, and not the uncle of anyone else;",
+  "B": "his uncle, and not his father, aunt, or anyone else;",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "A",
+  "type": "i"
+ },
+ "294": {
+  "question": "His uncle sent him to school. If you read this sentence with the first syllable of uncle on the high tone and all the rest on a low tone, what is implied?",
+  "A": "his uncle, and not the uncle of anyone else;",
+  "B": "his uncle, and not his father, aunt, or anyone else;",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "B",
+  "type": "i"
+ },
+ "295": {
+  "question": "His uncle sent him to school. If you read this sentence with sent on the high tone and all the rest on a low tone, what is implied?",
+  "A": "his uncle, and not the uncle of anyone else;",
+  "B": "his uncle, and not his father, aunt, or anyone else;",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "C",
+  "type": "i"
+ },
+ "296": {
+  "question": "His uncle sent him to school. If you read this sentence with him on the high tone and all the rest on a low tone, what is implied?",
+  "A": "his uncle, and not the uncle of anyone else;",
+  "B": "his uncle, and not his father, aunt, or anyone else;",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "D",
+  "type": "i"
+ },
+ "297": {
+  "question": "His uncle sent him to school. If you read this sentence with to on the high tone and all the rest on a low tone, what is implied?",
+  "A": "his uncle did not send him away from school to work at home or anywhere else - on the contrary, he sent him to school;",
+  "B": "his uncle, and not his father, aunt, or anyone else;",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "A",
+  "type": "i"
+ },
+ "298": {
+  "question": "His uncle sent him to school. If you read this sentence with school on the high tone, followed by a sharp fall, what is implied?",
+  "A": "his uncle did not send him away from school to work at home or anywhere else - on the contrary, he sent him to school;",
+  "B": "he was sent to school, not to any other institution.",
+  "C": "his uncle did send him to school - no doubt about that;",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "B",
+  "type": "i"
+ },
+ "299": {
+  "question": "His uncle sent him to school. If you read this sentence with school on a high tone, without the fall (or on a rising tone), what is implied?",
+  "A": "his uncle did not send him away from school to work at home or anywhere else - on the contrary, he sent him to school;",
+  "B": "he was sent to school, not to any other institution.",
+  "C": "he sentence becomes a question",
+  "D": "I was sent to school by his uncle, not his brother or sister;",
+  "answer": "C",
+  "type": "i"
+ },
+ "300": {
+  "question": "Does a falling tone on a syllable always start from the level you have arrived at in the sentence, e.g. What's the time? with a fall on time?",
+  "A": "No, a falling tone may be emphasized by a higher start",
+  "B": "Yes, a falling tone may be emphasized by a lower start",
+  "C": "No, a falling tone may be emphasized by a higher start",
+  "D": "Yes, a falling tone may be emphasized by a lower start",
+  "answer": "A",
+  "type": "i"
+ }
+}

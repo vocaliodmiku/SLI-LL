@@ -1,0 +1,38 @@
+{
+    "dev-001": {
+        "question": "Which type of pronunciation issue does it fall under when [θ] and [s] are pronounced in an indistinguishable manner?",
+        "A": "You do not differentiate between fricatives and affricates.",
+        "B": "You do not differentiate between voiceless and voiced consonants.",
+        "C": "You do not differentiate between dental and alveolar places of articulation.",
+        "D": "You do not differentiate between stops and continuants.",
+        "answer": "C",
+        "explanation": "The sounds [θ] and [s] are both voiceless fricatives, which means they are produced by creating a narrow passage of air through the mouth and making a hissing noise. However, they differ in their place of articulation, which is the location where the airflow is obstructed. The sound [θ] is a dental fricative, which means it is produced by placing the tip of the tongue between the upper and lower teeth. The sound [s] is an alveolar fricative, which means it is produced by placing the tip of the tongue behind the upper teeth, near the alveolar ridge. Some speakers of other languages, such as Spanish or Mandarin, may not have the sound [θ] in their native language and may substitute it with [s] or another similar sound. This can cause confusion or misunderstanding when they pronounce words like “thin” and “sin”, or “think” and “sink”. To avoid this issue, they need to learn to differentiate between dental and alveolar places of articulation and practice producing the sound [θ] correctly."
+    },
+    "dev-002": {
+        "question": "What is the pronunciation issue with saying ‘photograph’ as ‘phoTOgraph’? The stress is represented as upper case.",
+        "A": "There is no pronunciation issue because the stress should be on the second syllable (phoTOgraph).",
+        "B": "The stress is incorrect because not all syllables in a word should be stressed equally.",
+        "C": "The stress is incorrect because it should be on the first syllable ‘PHOtograph’, not ‘phoTOgraph’.",
+        "D": "The stress can be on the first syllable (PHOtograph) or the second syllable (phoTOgraph), depending on whether it is a noun or a verb.",
+        "answer":"C",
+        "explanation": "The pronunciation issue with saying ‘photograph’ as ‘phoTOgraph’ is that the stress is on the wrong syllable. The stress in 'photograph' is on the first syllable, while the stress in 'photography' is on the second syllable. This is a common mistake made by englearners. This means that saying ‘phoTOgraph’ is incorrect and confusing for the listener."
+    },
+    "dev-003": {
+        "question": "We are discussing the weather, which pause pattern is relatively appropriate? The slash (/) marks a brief pause between words.",
+        "A": "It’s very hot and humid today.",
+        "B": "It’s very / hot and humid / today.",
+        "C": " It’s / very hot / and humid / today.",
+        "D": "It’s very hot / and humid today.",
+        "answer":"B",
+        "explanation": "Option B ('It’s very / hot and humid / today.') is the most appropriate because it provides natural pauses that allow the listener to absorb the information in chunks. By placing a pause after “very”, the emphasis is placed on “hot and humid”, highlighting the key point of the sentence. The second pause provides a natural break before specifying the time frame 'today'."
+    },
+    "dev-004": {
+        "question": "Fall-rise intonation (➘➚) is used to show that you are not sure, surprised, interested, or have more to say about something. It can also indicate doubt, reservation, or contrast. Which intonation below is incorrect?",
+        "A": "I’m not very hungry. (➘➚)",
+        "B": "You’re kidding, right? (➘➚)",
+        "C": "I love this song. (➘➚)",
+        "D": "Actually, I disagree. (➘➚)",
+        "answer": "C",
+        "explanation": "Fall-rise intonation (➘➚) is used to show that you are not sure, surprised, interested, or have more to say about something. It can also indicate doubt, reservation, or contrast. Saying “I love this song” with a fall-rise intonation does not match any of these meanings."
+    }
+}

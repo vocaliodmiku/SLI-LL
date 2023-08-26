@@ -1,0 +1,1154 @@
+{
+ "0": {
+  "question": "Question: Which of the following items best fits this description? A stop followed by a homorganic fricative.",
+  "A": "radical",
+  "B": "Bark scale",
+  "C": "affricate",
+  "D": "fricative",
+  "answer": "C"
+ },
+ "1": {
+  "question": "Question: Which of the following items best fits this description? A variant of a phoneme, forming a set of sounds that (1) do not change the meaning of a word, (2) are all very similar to one another, and (3) occur in phonetic contexts different from one another—for example, syllable initial as opposed to syllable final. The differences between them can be stated in terms of phonological rules.",
+  "A": "diphthong",
+  "B": "phoneme",
+  "C": "allophone",
+  "D": "plosive",
+  "answer": "C"
+ },
+ "2": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the tip or blade of the tongue and the alveolar ridge, as in English [ d ] in die.",
+  "A": "coda",
+  "B": "alveolar",
+  "C": "velum",
+  "D": "velic",
+  "answer": "B"
+ },
+ "3": {
+  "question": "Question: Which of the following items best fits this description? The part of the upper surface of the mouth immediately behind the front teeth.",
+  "A": "alveolar-ridge",
+  "B": "alveolo-palatal",
+  "C": "velar pinch",
+  "D": "alveolar",
+  "answer": "A"
+ },
+ "4": {
+  "question": "Question: Which of the following items best fits this description? Post-alveolar consonant produced with significant raising of the front of the tongue toward the palate.",
+  "A": "alveolo-palatal",
+  "B": "linguo-labial",
+  "C": "palatal",
+  "D": "glottal",
+  "answer": "A"
+ },
+ "5": {
+  "question": "Question: Which of the following items best fits this description? Belonging to two syllables. A consonant such as [ p ] in happy.",
+  "A": "tonic syllable",
+  "B": "articulator",
+  "C": "ambisyllabic",
+  "D": "syllable",
+  "answer": "C"
+ },
+ "6": {
+  "question": "Question: Which of the following items best fits this description? An action in which one of the speech organs that is not involved in making a particular sound moves toward its position for a subsequent sound. For example, the rounding of the lips during [ s ] in swim is due to the anticipation of the lip action required for [ w ]",
+  "A": "anticipatory coarticulation",
+  "B": "perseverative coarticulation",
+  "C": "secondary articulation",
+  "D": "articulation",
+  "answer": "A"
+ },
+ "7": {
+  "question": "Question: Which of the following items best fits this description? An articulation in which one articulator is close to another but without the tract being narrowed to such an extent that a turbulent airstream is produced. In many forms of English, / j, l, r, w / are belonging to it.",
+  "A": "prominence",
+  "B": "alveolar",
+  "C": "approximant",
+  "D": "allophone",
+  "answer": "C"
+ },
+ "8": {
+  "question": "Question: Which of the following items best fits this description? The approach or contact of two speech organs, such as the tip of the tongue and the upper teeth.",
+  "A": "assimilation",
+  "B": "articulation",
+  "C": "aspiration",
+  "D": "intonation",
+  "answer": "B"
+ },
+ "9": {
+  "question": "Question: Which of the following items best fits this description? One of several parts of the vocal tract that can be used to form speech sounds.",
+  "A": "alveolar",
+  "B": "filter",
+  "C": "articulator",
+  "D": "assimilation",
+  "answer": "C"
+ },
+ "10": {
+  "question": "Question: Which of the following items best fits this description? One of a pair of structures at the posterior ends of the vocal folds. Their movements control phonation types.",
+  "A": "articulator",
+  "B": "affricate",
+  "C": "arytenoid cartilage",
+  "D": "articulation",
+  "answer": "C"
+ },
+ "11": {
+  "question": "Question: Which of the following items best fits this description? A period of voicelessness after the release of an articulation, as in English in pie [ pʰaI ].",
+  "A": "nasalization",
+  "B": "articulation",
+  "C": "aspiration",
+  "D": "phonation",
+  "answer": "C"
+ },
+ "12": {
+  "question": "Question: Which of the following items best fits this description? The change of one sound into another making it more similar to a neighboring sound, as in the change of underlying [n] to [m] in input [ˈɪmpʊt].",
+  "A": "aspiration",
+  "B": "coarticulation",
+  "C": "nasalization",
+  "D": "assimilation",
+  "answer": "D"
+ },
+ "13": {
+  "question": "Question: Which of the following items best fits this description? The part of the tongue below the soft palate.",
+  "A": "contour tone",
+  "B": "back of the tongue",
+  "C": "breathy voice",
+  "D": "binary feature",
+  "answer": "B"
+ },
+ "14": {
+  "question": "Question: Which of the following items best fits this description? Vowel in which the body of the tongue is in the back part of the oral cavity (mouth). The vowels [ u, o, ɔ, ɑ ] form a set of back reference vowels.",
+  "A": "coronal",
+  "B": "back vowel",
+  "C": "semivowel",
+  "D": "reduced vowel",
+  "answer": "B"
+ },
+ "15": {
+  "question": "Question: Which of the following items best fits this description? A scale in which equal intervals of pitch as perceived by listeners are represented by equal distance on the scale.",
+  "A": "Bark scale",
+  "B": "hard palate",
+  "C": "nasal",
+  "D": "affricate",
+  "answer": "A"
+ },
+ "16": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving both lips, as in English [ m ] in my.",
+  "A": "bilabial",
+  "B": "radical",
+  "C": "palatal",
+  "D": "nasal",
+  "answer": "A"
+ },
+ "17": {
+  "question": "Question: Which of the following items best fits this description? A feature (e.g., Lateral) that can be used to classify sounds in terms of two possibilities.",
+  "A": "binary feature",
+  "B": "pharyngeal",
+  "C": "laryngeal",
+  "D": "articulator",
+  "answer": "A"
+ },
+ "18": {
+  "question": "Question: Which of the following items best fits this description? Another name for murmur; a type of phonation in which the vocal folds are only slightly apart so that they vibrate while allowing a high rate of airflow through the glottis.",
+  "A": "fricative",
+  "B": "front vowel",
+  "C": "nasal vowel",
+  "D": "breathy voice",
+  "answer": "D"
+ },
+ "19": {
+  "question": "Question: Which of the following items best fits this description? A transcription that does not show a great deal of phonetic detail; often a simple phonemic transcription.",
+  "A": "target position",
+  "B": "broad transcription",
+  "C": "articulation",
+  "D": "coarticulation",
+  "answer": "B"
+ },
+ "20": {
+  "question": "Question: Which of the following items best fits this description? A syllable with a consonant at the end, as the first syllables in English magpie, pantry, completion.",
+  "A": "hard palate",
+  "B": "open syllable",
+  "C": "tonic syllable",
+  "D": "closed syllable",
+  "answer": "D"
+ },
+ "21": {
+  "question": "Question: Which of the following items best fits this description? The overlapping of adjacent articulations.",
+  "A": "velarization",
+  "B": "articulation",
+  "C": "contour tone",
+  "D": "coarticulation",
+  "answer": "D"
+ },
+ "22": {
+  "question": "Question: Which of the following items best fits this description? The consonants occurring after the vowel in a syllable.",
+  "A": "coda",
+  "B": "flap",
+  "C": "dorsal",
+  "D": "coronal",
+  "answer": "A"
+ },
+ "23": {
+  "question": "Question: Which of the following items best fits this description? A tone in a language, such as Chinese, that must be specified as a gliding movement within the pitch range.",
+  "A": "contour tone",
+  "B": "coronal",
+  "C": "coarticulation",
+  "D": "allophone",
+  "answer": "A"
+ },
+ "24": {
+  "question": "Question: Which of the following items best fits this description? The functional organization of a group of muscles into a hierarchical structure of goal-oriented control units that accomplish subtasks of a phonetic task like closing the lips.",
+  "A": "contour tone",
+  "B": "fricative",
+  "C": "coordinative structure",
+  "D": "back of the tongue",
+  "answer": "C"
+ },
+ "25": {
+  "question": "Question: Which of the following items best fits this description? A term for sounds articulated with the tip or blade of the tongue raised toward the teeth or the alveolar ridge (or, sometimes, the hard palate), such as [ θ, s, t ].",
+  "A": "dorsal",
+  "B": "dental",
+  "C": "laminal",
+  "D": "coronal",
+  "answer": "D"
+ },
+ "26": {
+  "question": "Question: Which of the following items best fits this description? Gradual falling of intonational pitch over the course of an utterance.",
+  "A": "intonation",
+  "B": "velarization",
+  "C": "declination",
+  "D": "assimilation",
+  "answer": "C"
+ },
+ "27": {
+  "question": "Question: Which of the following items best fits this description? In speech motor control, the control problem caused by needing to control a great number of independent muscles.",
+  "A": "exemplar theory",
+  "B": "reduced vowel",
+  "C": "degrees of freedom problem",
+  "D": "closed syllable",
+  "answer": "C"
+ },
+ "28": {
+  "question": "Question: Which of the following items best fits this description? Refers to sounds made with the tongue touching the teeth.",
+  "A": "dorsal",
+  "B": "labial",
+  "C": "palatal",
+  "D": "dental",
+  "answer": "D"
+ },
+ "29": {
+  "question": "Question: Which of the following items best fits this description? Small added mark that can be used to distinguish different values of a symbol. For example, the addition of [~] distinguishes a velarized from a nonvelarized sound.",
+  "A": "declination",
+  "B": "bilabial",
+  "C": "diacritic",
+  "D": "sonority",
+  "answer": "C"
+ },
+ "30": {
+  "question": "Question: Which of the following items best fits this description? A vowel in which there is a change in quality during a single syllable, as in English [ aɪ ] in high.",
+  "A": "aspiration",
+  "B": "declination",
+  "C": "allophone",
+  "D": "diphthong",
+  "answer": "D"
+ },
+ "31": {
+  "question": "Question: Which of the following items best fits this description? Describing a sound articulated with the back of the tongue.",
+  "A": "nasal",
+  "B": "dorsal",
+  "C": "coda",
+  "D": "glottal",
+  "answer": "B"
+ },
+ "32": {
+  "question": "Question: Which of the following items best fits this description? The back of the tongue.",
+  "A": "velum",
+  "B": "coronal",
+  "C": "onset",
+  "D": "dorsum",
+  "answer": "D"
+ },
+ "33": {
+  "question": "Question: Which of the following items best fits this description? The tendency for the pitch to fall throughout an intonational phrase.",
+  "A": "downdrift",
+  "B": "onset",
+  "C": "dorsum",
+  "D": "sonority",
+  "answer": "A"
+ },
+ "34": {
+  "question": "Question: Which of the following items best fits this description? Optional lowering of a high pitch accent or high tone after a similar high pitch accent or high tone.",
+  "A": "rounded",
+  "B": "dorsum",
+  "C": "downstep",
+  "D": "downdrift",
+  "answer": "C"
+ },
+ "35": {
+  "question": "Question: Which of the following items best fits this description? A phonetic force that impacts linguistic sound systems so that patterns that are easier to produce are more likely than difficult patterns.",
+  "A": "ease of articulation",
+  "B": "assimilation",
+  "C": "velarization",
+  "D": "nasalization",
+  "answer": "A"
+ },
+ "36": {
+  "question": "Question: Which of the following items best fits this description? A stop made with an egressive glottalic airstream.",
+  "A": "rhotic",
+  "B": "implosive",
+  "C": "ejective",
+  "D": "glottis",
+  "answer": "C"
+ },
+ "37": {
+  "question": "Question: Which of the following items best fits this description? The insertion of one or more sounds in the middle of a word, such as the pronunciation of sense as [ sents ].",
+  "A": "dental",
+  "B": "stress",
+  "C": "length",
+  "D": "epenthesis",
+  "answer": "D"
+ },
+ "38": {
+  "question": "Question: Which of the following items best fits this description? The idea that phonetic categories are represented in the mind as a set of all of the examples of the category that the speaker has produced and/or heard.",
+  "A": "contour tone",
+  "B": "exemplar theory",
+  "C": "epenthesis",
+  "D": "aspiration",
+  "answer": "B"
+ },
+ "39": {
+  "question": "Question: Which of the following items best fits this description? In acoustic phonetics, a filter is an acoustic tube that enhances some frequency components of a sound source while decreasing the amplitudes of other components.",
+  "A": "filter",
+  "B": "lax",
+  "C": "dental",
+  "D": "velar",
+  "answer": "A"
+ },
+ "40": {
+  "question": "Question: Which of the following items best fits this description? An articulation in which one articulator, usually the tongue tip, is drawn back and then allowed to strike against another articulator in returning to its rest position.",
+  "A": "tap",
+  "B": "nasal",
+  "C": "flap",
+  "D": "lax",
+  "answer": "C"
+ },
+ "41": {
+  "question": "Question: Which of the following items best fits this description? A resonating frequency of the air in the vocal tract. Vowels are characterized by three of it.",
+  "A": "coronal",
+  "B": "flap",
+  "C": "formant",
+  "D": "coda",
+  "answer": "C"
+ },
+ "42": {
+  "question": "Question: Which of the following items best fits this description? The rate of oscillation in air pressure in a periodic sound wave.",
+  "A": "reduced",
+  "B": "segment",
+  "C": "fricative",
+  "D": "frequency",
+  "answer": "D"
+ },
+ "43": {
+  "question": "Question: Which of the following items best fits this description? Narrowing of the distance between two articulators so that the airstream is partially obstructed and a turbulent airflow is produced, as in English [ z ] in zoo.",
+  "A": "aspiration",
+  "B": "ejective",
+  "C": "affricate",
+  "D": "fricative",
+  "answer": "D"
+ },
+ "44": {
+  "question": "Question: Which of the following items best fits this description? Vowel in which the body of the tongue is in the front part of the oral cavity (mouth). The vowels [ i, e, a ] form a set of front reference vowels.",
+  "A": "strong form",
+  "B": "nasal vowel",
+  "C": "breathy voice",
+  "D": "front vowel",
+  "answer": "D"
+ },
+ "45": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the glottis.",
+  "A": "glottal",
+  "B": "bilabial",
+  "C": "dental",
+  "D": "labial",
+  "answer": "A"
+ },
+ "46": {
+  "question": "Question: Which of the following items best fits this description? A stop sound produced by pressing the vocal folds tightly together.",
+  "A": "closed syllable",
+  "B": "glottal stop (glottal “catch”)",
+  "C": "glottal",
+  "D": "oral stop",
+  "answer": "B"
+ },
+ "47": {
+  "question": "Question: Which of the following items best fits this description? The space between the vocal folds.",
+  "A": "rhotic",
+  "B": "coda",
+  "C": "vocoid",
+  "D": "glottis",
+  "answer": "D"
+ },
+ "48": {
+  "question": "Question: Which of the following items best fits this description? The bony structure that forms the roof of the front part of the mouth.",
+  "A": "hard palate",
+  "B": "radical",
+  "C": "allophone",
+  "D": "palatal",
+  "answer": "A"
+ },
+ "49": {
+  "question": "Question: Which of the following items best fits this description? Made with the same place of articulation. The sounds [ d ] and [ n ], as in English hand, are homorganic.",
+  "A": "diacritic",
+  "B": "rhotic",
+  "C": "homorganic",
+  "D": "sonority",
+  "answer": "C"
+ },
+ "50": {
+  "question": "Question: Which of the following items best fits this description? A stop made with an ingressive glottalic airstream.",
+  "A": "implosive",
+  "B": "ejective",
+  "C": "bilabial",
+  "D": "plosive",
+  "answer": "A"
+ },
+ "51": {
+  "question": "Question: Which of the following items best fits this description? A transcription in which the symbols indicate only the general phonetic value of the sounds.",
+  "A": "systematic phonetic transcription",
+  "B": "secondary articulation",
+  "C": "impressionistic transcription",
+  "D": "perseverative coarticulation",
+  "answer": "C"
+ },
+ "52": {
+  "question": "Question: Which of the following items best fits this description? The amount of acoustic energy in a sound.",
+  "A": "onset",
+  "B": "intonation",
+  "C": "tense",
+  "D": "intensity",
+  "answer": "D"
+ },
+ "53": {
+  "question": "Question: Which of the following items best fits this description? Articulated with the tongue between the upper and lower teeth. Many speakers of American English use an interdental articulation in words such as thick, thin.",
+  "A": "interdental",
+  "B": "segment",
+  "C": "lateral",
+  "D": "intensity",
+  "answer": "A"
+ },
+ "54": {
+  "question": "Question: Which of the following items best fits this description? The pattern of pitch changes that occur during a phrase, which may be a complete sentence.",
+  "A": "articulation",
+  "B": "contour tone",
+  "C": "assimilation",
+  "D": "intonation",
+  "answer": "D"
+ },
+ "55": {
+  "question": "Question: Which of the following items best fits this description? The part of an utterance over which a particular intonation pattern extends. There may be one or more tone groups in an English sentence.",
+  "A": "palato-alveolar",
+  "B": "allophone",
+  "C": "vocal tract",
+  "D": "intonational phrase",
+  "answer": "D"
+ },
+ "56": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving one or both lips, such as [f, v, m].",
+  "A": "dorsal",
+  "B": "nasal",
+  "C": "dental",
+  "D": "labial",
+  "answer": "D"
+ },
+ "57": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving simultaneous action of the back of the tongue forming a velar closure and the lips forming a bilabial closure.",
+  "A": "palato-alveolar",
+  "B": "alveolar",
+  "C": "nasal vowel",
+  "D": "labial velar (labiovelar)",
+  "answer": "D"
+ },
+ "58": {
+  "question": "Question: Which of the following items best fits this description? A secondary articulation in which lip rounding is added to a sound, as in English [ ʃ ].",
+  "A": "velarization",
+  "B": "laryngealization",
+  "C": "palatalization",
+  "D": "labialization",
+  "answer": "D"
+ },
+ "59": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the lower lip and the upper front teeth.",
+  "A": "laryngeal",
+  "B": "dental",
+  "C": "labiodental",
+  "D": "bilabial",
+  "answer": "C"
+ },
+ "60": {
+  "question": "Question: Which of the following items best fits this description? An articulation made with the blade of the tongue.",
+  "A": "laminal",
+  "B": "bilabial",
+  "C": "lateral",
+  "D": "laryngeal",
+  "answer": "A"
+ },
+ "61": {
+  "question": "Question: Which of the following items best fits this description? The region of the vocal tract at the glottis in which consonantal articulations such as [ h ] are made.",
+  "A": "Bark scale",
+  "B": "lateral",
+  "C": "laryngeal",
+  "D": "pharyngeal",
+  "answer": "C"
+ },
+ "62": {
+  "question": "Question: Which of the following items best fits this description? Another name for creaky voice; a type of phonation in which the arytenoid cartilages hold the posterior end of the vocal folds together so that they can vibrate only at the other end.",
+  "A": "pharyngealization",
+  "B": "laryngeal",
+  "C": "laryngealization",
+  "D": "nasalization",
+  "answer": "C"
+ },
+ "63": {
+  "question": "Question: Which of the following items best fits this description? An articulation in which the airstream flows over the sides of the tongue, as in English [ l ] in leaf.",
+  "A": "lateral",
+  "B": "glottal",
+  "C": "laminal",
+  "D": "palatal",
+  "answer": "A"
+ },
+ "64": {
+  "question": "Question: Which of the following items best fits this description? The release of a plosive by lowering the sides of the tongue, as at the end of the word saddle.",
+  "A": "lateral plosion",
+  "B": "articulation",
+  "C": "nasal plosion",
+  "D": "nasal stop",
+  "answer": "A"
+ },
+ "65": {
+  "question": "Question: Which of the following items best fits this description? A term with no specific phonetic correlates, used when dividing vowels into classes on phonological grounds. In English, the lax vowels are those that can occur in monosyllables closed by [ ŋ ], such as sing, length, hang, long, hung.",
+  "A": "flap",
+  "B": "lax",
+  "C": "locus",
+  "D": "nasal",
+  "answer": "B"
+ },
+ "66": {
+  "question": "Question: Which of the following items best fits this description? The linguistic use of physical duration to distinguish words.",
+  "A": "dental",
+  "B": "locus",
+  "C": "length",
+  "D": "liquid",
+  "answer": "C"
+ },
+ "67": {
+  "question": "Question: Which of the following items best fits this description? Key words illustrating the main sets of lexical items that share a vowel; used to compare vowel pronunciation across varieties of English.",
+  "A": "laminal",
+  "B": "nasal stop",
+  "C": "lexical sets",
+  "D": "oral stop",
+  "answer": "C"
+ },
+ "68": {
+  "question": "Question: Which of the following items best fits this description? Articulated with the tongue near or contacting the upper lip.",
+  "A": "glottal",
+  "B": "labial",
+  "C": "linguo-labial",
+  "D": "interdental",
+  "answer": "C"
+ },
+ "69": {
+  "question": "Question: Which of the following items best fits this description? The action of bringing the corners of the lips toward one another so that the mouth opening is reduced.",
+  "A": "diphthong",
+  "B": "lip rounding",
+  "C": "aspiration",
+  "D": "liquid",
+  "answer": "B"
+ },
+ "70": {
+  "question": "Question: Which of the following items best fits this description? A cover term for laterals and various forms of r-sounds.",
+  "A": "glottis",
+  "B": "lax",
+  "C": "filter",
+  "D": "liquid",
+  "answer": "D"
+ },
+ "71": {
+  "question": "Question: Which of the following items best fits this description? The apparent point of origin of the formants for each place of articulation.",
+  "A": "glottis",
+  "B": "locus",
+  "C": "dorsum",
+  "D": "coda",
+  "answer": "B"
+ },
+ "72": {
+  "question": "Question: Which of the following items best fits this description? The auditory property of a sound that enables a listener to place it on a scale going from soft to loud without considering the acoustic properties, such as the intensity of the sound.",
+  "A": "loudness",
+  "B": "stress",
+  "C": "voiceless",
+  "D": "tone",
+  "answer": "A"
+ },
+ "73": {
+  "question": "Question: Which of the following items best fits this description? A vowel in which there is no appreciable change in quality during a syllable, as in English [ ɑ ] in father. Compare diphthong.",
+  "A": "phonation",
+  "B": "diphthong",
+  "C": "monophthong",
+  "D": "allophone",
+  "answer": "C"
+ },
+ "74": {
+  "question": "Question: Which of the following items best fits this description? Another name for breathy voice; a type of phonation in which the vocal folds are only slightly apart so that they vibrate while allowing a high rate of airflow through the glottis.",
+  "A": "murmur",
+  "B": "rhyme",
+  "C": "filter",
+  "D": "formant",
+  "answer": "A"
+ },
+ "75": {
+  "question": "Question: Which of the following items best fits this description? A transcription that shows phonetic details (such as, in English, aspiration, length, etc.) by using a wide variety of symbols and, in many cases, diacritics.",
+  "A": "narrow transcription",
+  "B": "ease of articulation",
+  "C": "target position",
+  "D": "articulation",
+  "answer": "A"
+ },
+ "76": {
+  "question": "Question: Which of the following items best fits this description? A sound in which the soft palate is lowered so that there is no velic closure and air may go out through the nose, as in English [ m ] in my.",
+  "A": "nasal",
+  "B": "lateral",
+  "C": "flap",
+  "D": "laminal",
+  "answer": "A"
+ },
+ "77": {
+  "question": "Question: Which of the following items best fits this description? Lowering of the soft palate during a sound in which air is going out through the mouth, as in the vowel [ æ ] between nasals in English man.",
+  "A": "nasalization",
+  "B": "labialization",
+  "C": "nasal plosion",
+  "D": "assimilation",
+  "answer": "A"
+ },
+ "78": {
+  "question": "Question: Which of the following items best fits this description? The release of a plosive by lowering the soft palate so that air escapes through the nose, as at the end of the word hidden.",
+  "A": "nasal plosion",
+  "B": "nasalization",
+  "C": "assimilation",
+  "D": "articulation",
+  "answer": "A"
+ },
+ "79": {
+  "question": "Question: Which of the following items best fits this description? A complete stoppage of the oral cavity so that the airstream passes only through the nose.",
+  "A": "nasal vowel",
+  "B": "nasal stop",
+  "C": "stop",
+  "D": "aspiration",
+  "answer": "B"
+ },
+ "80": {
+  "question": "Question: Which of the following items best fits this description? A vowel in which part of the airstream passes out through the nose.",
+  "A": "nasal stop",
+  "B": "front vowel",
+  "C": "nasal",
+  "D": "nasal vowel",
+  "answer": "D"
+ },
+ "81": {
+  "question": "Question: Which of the following items best fits this description? The center of a syllable, usually just the vowel.",
+  "A": "voiceless",
+  "B": "loudness",
+  "C": "nucleus",
+  "D": "stress",
+  "answer": "C"
+ },
+ "82": {
+  "question": "Question: Which of the following items best fits this description? A fricative, stop, or affricate.",
+  "A": "downdrift",
+  "B": "onset",
+  "C": "obstruent",
+  "D": "stress",
+  "answer": "C"
+ },
+ "83": {
+  "question": "Question: Which of the following items best fits this description? A consonant that occurs before the vowel in a syllable.",
+  "A": "dorsum",
+  "B": "dorsal",
+  "C": "onset",
+  "D": "tone",
+  "answer": "C"
+ },
+ "84": {
+  "question": "Question: Which of the following items best fits this description? A syllable without a consonant at the end, as the first syllables in English beehive, bylaw, sawing.",
+  "A": "Bark scale",
+  "B": "open syllable",
+  "C": "closed syllable",
+  "D": "syllable",
+  "answer": "B"
+ },
+ "85": {
+  "question": "Question: Which of the following items best fits this description? Complete stoppage of both the oral and nasal cavities, as in [ b, d, g ].",
+  "A": "oral stop",
+  "B": "palatal",
+  "C": "stop",
+  "D": "diacritic",
+  "answer": "A"
+ },
+ "86": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the front of the tongue and the hard palate, as in English [ j ] in you.",
+  "A": "palatal",
+  "B": "lateral",
+  "C": "nasal",
+  "D": "glottal",
+  "answer": "A"
+ },
+ "87": {
+  "question": "Question: Which of the following items best fits this description? A secondary articulation in which the front of the tongue is raised toward the hard palate, as in the so-called soft sounds in Russian.",
+  "A": "aspiration",
+  "B": "palatalization",
+  "C": "pharyngealization",
+  "D": "laryngealization",
+  "answer": "B"
+ },
+ "88": {
+  "question": "Question: Which of the following items best fits this description? An articulation between the tongue blade and the back of the alveolar ridge.",
+  "A": "palatalization",
+  "B": "palato-alveolar",
+  "C": "articulator",
+  "D": "palatal",
+  "answer": "B"
+ },
+ "89": {
+  "question": "Question: Which of the following items best fits this description? A technique for showing articulatory contact. In one form, the tongue is covered with a marking medium, and then, after a word has been articulated, it is possible to observe where the medium has been transferred onto the roof of the mouth.",
+  "A": "palatalization",
+  "B": "palatography",
+  "C": "spectrogram",
+  "D": "allophone",
+  "answer": "B"
+ },
+ "90": {
+  "question": "Question: Which of the following items best fits this description? The persistence of an aspect of the articulation of one sound into the following sound, for example, the laryngealization of a vowel after a glottal stop.",
+  "A": "ease of articulation",
+  "B": "perseverative coarticulation",
+  "C": "coarticulation",
+  "D": "anticipatory coarticulation",
+  "answer": "B"
+ },
+ "91": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the root of the tongue and the back wall of the pharynx.",
+  "A": "Bark scale",
+  "B": "pharyngeal",
+  "C": "laminal",
+  "D": "dental",
+  "answer": "B"
+ },
+ "92": {
+  "question": "Question: Which of the following items best fits this description? A secondary articulation in which the root of the tongue is drawn back so that the pharynx is narrowed, as in some so-called emphatic consonants in Arabic.",
+  "A": "laryngealization",
+  "B": "palatalization",
+  "C": "pharyngealization",
+  "D": "articulation",
+  "answer": "C"
+ },
+ "93": {
+  "question": "Question: Which of the following items best fits this description? Vibration of the vocal folds in voicing.",
+  "A": "aspiration",
+  "B": "fricative",
+  "C": "phoneme",
+  "D": "phonation",
+  "answer": "D"
+ },
+ "94": {
+  "question": "Question: Which of the following items best fits this description? The smallest distinctive unit in the structure of a given language.",
+  "A": "prominence",
+  "B": "onset",
+  "C": "phonation",
+  "D": "phoneme",
+  "answer": "D"
+ },
+ "95": {
+  "question": "Question: Which of the following items best fits this description? Accounting for phonetic variability by writing rules that show the relationship between abstract phonological representations and crosslinguistic, dialectal, or individual variants.",
+  "A": "phonation",
+  "B": "coarticulation",
+  "C": "phonetic implementation",
+  "D": "assimilation",
+  "answer": "C"
+ },
+ "96": {
+  "question": "Question: Which of the following items best fits this description? The description of the systems and patterns of sounds that occur in a language.",
+  "A": "phonology",
+  "B": "alveolar",
+  "C": "coronal",
+  "D": "sonority",
+  "answer": "A"
+ },
+ "97": {
+  "question": "Question: Which of the following items best fits this description? The auditory property of a sound corresponding to a musical note that enables a listener to place it on a scale going from low to high.",
+  "A": "coda",
+  "B": "tap",
+  "C": "pitch",
+  "D": "stop",
+  "answer": "C"
+ },
+ "98": {
+  "question": "Question: Which of the following items best fits this description? A stop made with a pulmonic airstream mechanism, such as in English [ p ] or [ b ].",
+  "A": "phoneme",
+  "B": "ejective",
+  "C": "labial",
+  "D": "plosive",
+  "answer": "D"
+ },
+ "99": {
+  "question": "Question: Which of the following items best fits this description? A sound produced with constriction between the alveolar ridge and the palate.",
+  "A": "post-alveolar",
+  "B": "alveolar",
+  "C": "nasal vowel",
+  "D": "palatal",
+  "answer": "A"
+ },
+ "100": {
+  "question": "Question: Which of the following items best fits this description? The extent to which a sound stands out from others because of some combination of its sonority, length, stress, and pitch.",
+  "A": "prominence",
+  "B": "frequency",
+  "C": "phoneme",
+  "D": "loudness",
+  "answer": "A"
+ },
+ "101": {
+  "question": "Question: Which of the following items best fits this description? An articulation made with the root of the tongue.",
+  "A": "radical",
+  "B": "reduced",
+  "C": "bilabial",
+  "D": "labial",
+  "answer": "A"
+ },
+ "102": {
+  "question": "Question: Which of the following items best fits this description? A reduced form of a word is a production that exhibits significant deviation from a citation production, including reduced vowels and deleted segments.",
+  "A": "tense",
+  "B": "voiced",
+  "C": "reduced",
+  "D": "liquid",
+  "answer": "C"
+ },
+ "103": {
+  "question": "Question: Which of the following items best fits this description? A vowel that is pronounced with a noncontrasting centralized quality, although in the underlying form of a word it is part of a full set of contrasts. The second vowel in emphasis is a reduced form of the vowel / æ /, as in emphatic.",
+  "A": "reduced",
+  "B": "front vowel",
+  "C": "reduced vowel",
+  "D": "breathy voice",
+  "answer": "C"
+ },
+ "104": {
+  "question": "Question: Which of the following items best fits this description? A burst of noise produced when a stop consonant is released.",
+  "A": "release burst",
+  "B": "voice bar",
+  "C": "alveolar",
+  "D": "bilabial",
+  "answer": "A"
+ },
+ "105": {
+  "question": "Question: Which of the following items best fits this description? An articulation involving the tip of the tongue and the back part of the alveolar ridge.",
+  "A": "trill",
+  "B": "retroflex",
+  "C": "dental",
+  "D": "reduced",
+  "answer": "B"
+ },
+ "106": {
+  "question": "Question: Which of the following items best fits this description? A form of English in which / r / can occur after a vowel and within a syllable in words such as car, bird, early. Most forms of Midwestern American English are belonging to it, whereas most forms of English spoken in the southern part of England are not belonging to it.",
+  "A": "coda",
+  "B": "filter",
+  "C": "glottal",
+  "D": "rhotic",
+  "answer": "D"
+ },
+ "107": {
+  "question": "Question: Which of the following items best fits this description? The vowel (nucleus) and any consonants occurring after the vowel in a syllable.",
+  "A": "phoneme",
+  "B": "tense",
+  "C": "rhotic",
+  "D": "rhyme",
+  "answer": "D"
+ },
+ "108": {
+  "question": "Question: Which of the following items best fits this description? A sound with added lip rounding.",
+  "A": "rounded",
+  "B": "tone",
+  "C": "onset",
+  "D": "reduced",
+  "answer": "A"
+ },
+ "109": {
+  "question": "Question: Which of the following items best fits this description? An additional constriction that is at a different place of articulation from that in the primary articulation. The English alveolar lateral at the end of a syllable, as in eel, is often made with the back of the tongue raised, and thus has the secondary articulation of velarization.",
+  "A": "nasalization",
+  "B": "ease of articulation",
+  "C": "coarticulation",
+  "D": "secondary articulation",
+  "answer": "D"
+ },
+ "110": {
+  "question": "Question: Which of the following items best fits this description? A unit of sound of the size of a consonant or vowel.",
+  "A": "formant",
+  "B": "rhyme",
+  "C": "obstruent",
+  "D": "segment",
+  "answer": "D"
+ },
+ "111": {
+  "question": "Question: Which of the following items best fits this description? A sound articulated in the same way as a vowel, but not forming a syllable on its own, as in [ w ] in we.",
+  "A": "ejective",
+  "B": "front vowel",
+  "C": "coronal",
+  "D": "semivowel",
+  "answer": "D"
+ },
+ "112": {
+  "question": "Question: Which of the following items best fits this description? A speech sound in which there is high-amplitude, turbulent noise, as in English [s] and [ʃ] in sip and ship.",
+  "A": "formant",
+  "B": "labial",
+  "C": "sibilant",
+  "D": "segment",
+  "answer": "C"
+ },
+ "113": {
+  "question": "Question: Which of the following items best fits this description? The soft, movable part of the palate at the back of the mouth.",
+  "A": "hard palate",
+  "B": "affricate",
+  "C": "Bark scale",
+  "D": "soft palate",
+  "answer": "D"
+ },
+ "114": {
+  "question": "Question: Which of the following items best fits this description? The loudness of a sound relative to that of other sounds with the same length, stress, and pitch.",
+  "A": "source",
+  "B": "sonority",
+  "C": "coronal",
+  "D": "diacritic",
+  "answer": "B"
+ },
+ "115": {
+  "question": "Question: Which of the following items best fits this description? In acoustic phonetics, a sound source that is subsequently filtered by the vocal tract. Voicing, frication, and burst noises are the main sound sources in human speech.",
+  "A": "source",
+  "B": "tone",
+  "C": "locus",
+  "D": "dorsum",
+  "answer": "A"
+ },
+ "116": {
+  "question": "Question: Which of the following items best fits this description? A graphic representation of sounds in terms of their component frequencies, in which time is shown on the horizontal axis, frequency on the vertical axis, and the intensity of each frequency at each moment in time by the darkness of the mark.",
+  "A": "ejective",
+  "B": "spectrogram",
+  "C": "dental",
+  "D": "lateral",
+  "answer": "B"
+ },
+ "117": {
+  "question": "Question: Which of the following items best fits this description? Complete closure of two articulators. This term usually implies an oral stop—that is, complete closure of two articulators and a velic closure, as in English [ b ] in buy. But nasals, as in English [ m ] in my, can also be considered stops.",
+  "A": "tone",
+  "B": "pitch",
+  "C": "stop",
+  "D": "coda",
+  "answer": "C"
+ },
+ "118": {
+  "question": "Question: Which of the following items best fits this description? The use of extra respiratory energy during a syllable.",
+  "A": "stop",
+  "B": "dorsum",
+  "C": "stress",
+  "D": "loudness",
+  "answer": "C"
+ },
+ "119": {
+  "question": "Question: Which of the following items best fits this description? The form in which a word is pronounced when it is stressed. This term is usually applied only to words that normally occur unstressed and with a weak form.",
+  "A": "coronal",
+  "B": "weak form",
+  "C": "phonation",
+  "D": "strong form",
+  "answer": "D"
+ },
+ "120": {
+  "question": "Question: Which of the following items best fits this description? Phonetic feature such as stress, length, tone, and intonation, which is not a property of single consonants or vowels.",
+  "A": "suprasegmental",
+  "B": "dental",
+  "C": "laryngeal",
+  "D": "interdental",
+  "answer": "A"
+ },
+ "121": {
+  "question": "Question: Which of the following items best fits this description? A unit of speech for which there is no satisfactory definition. it seem to be necessary units in the mental organization and production of utterances.",
+  "A": "bilabial",
+  "B": "syllable",
+  "C": "flap",
+  "D": "dorsal",
+  "answer": "B"
+ },
+ "122": {
+  "question": "Question: Which of the following items best fits this description? A transcription that shows all the phonetic details that are part of the language and can be stated in terms of phonological rules.",
+  "A": "phonetic implementation",
+  "B": "perseverative coarticulation",
+  "C": "systematic phonetic transcription",
+  "D": "secondary articulation",
+  "answer": "C"
+ },
+ "123": {
+  "question": "Question: Which of the following items best fits this description? A rapid movement of the tip of the tongue upward to contact the roof of the mouth, then returning to the floor of the mouth along the same path.",
+  "A": "tap",
+  "B": "tone",
+  "C": "flap",
+  "D": "stop",
+  "answer": "A"
+ },
+ "124": {
+    "question": "question: The correct statement about intonation is:",
+    "A": "Falling intonation (➘): This type is often used in yes-no questions, requests, offers, suggestions, and incomplete sentences. It shows that you are unsure or polite about what you are saying, or that you want the listener to respond or continue.",
+    "B": "Rising intonation (➚): This type is used to show that you are very emphatic, excited, or angry about something. It can also indicate sarcasm, irony, or disbelief. It is often used with words like absolutely, definitely, obviously, etc.",
+    "C": "Fall-rise intonation (➘➚): This type is used to show that you are not sure, surprised, interested, or have more to say about something. It can also indicate doubt, reservation, or contrast. It is often used with words like maybe, perhaps, well, actually, etc.:",
+    "D": "Rise-fall intonation (➚➘): This type is very common in wh-questions, statements, commands, and exclamations. It shows that you are certain or confident about what you are saying, or that you have finished speaking.",
+    "answer": "C"
+ },
+ "125": {
+  "question": "Question: Which of the following items best fits this description? A term with no specific phonetic correlates, used when dividing vowels into classes on phonological grounds. In English, its vowels are those that can occur in stressed open syllables such as bee, bay, bah, saw, low, boo, buy, bough, boy, and cue.",
+  "A": "length",
+  "B": "rhyme",
+  "C": "tense",
+  "D": "onset",
+  "answer": "C"
+ },
+ "126": {
+  "question": "Question: Which of the following items best fits this description? A system for transcribing the intonation of utterances in terms of a sequence of pitch accents—H(igh) and L(ow) and combinations—on stressed syllables, intonational phrases, and boundaries, together with a set of break indices indicating the degree of connection between adjacent words ranging from 1 (close connection) to 4 (maximum break).",
+  "A": "coda",
+  "B": "stop",
+  "C": "flap",
+  "D": "ToBI",
+  "answer": "D"
+ },
+ "127": {
+  "question": "Question: Which of the following items best fits this description? A pitch that conveys part of the meaning of a word. In Chinese, for example, [ ma ] pronounced with a high level tone means ‘mother,’ and with a high falling tone means ‘scold.’",
+  "A": "tense",
+  "B": "flap",
+  "C": "tone",
+  "D": "coda",
+  "answer": "C"
+ },
+ "128": {
+  "question": "Question: Which of the following items best fits this description? A change of tone due to the influence of neighboring tones.",
+  "A": "homorganic",
+  "B": "tone",
+  "C": "formant",
+  "D": "tone sandhi",
+  "answer": "D"
+ },
+ "129": {
+  "question": "Question: Which of the following items best fits this description? The syllable within a tone group that stands out because it carries the major pitch change.",
+  "A": "open syllable",
+  "B": "tonic syllable",
+  "C": "Bark scale",
+  "D": "soft palate",
+  "answer": "B"
+ },
+ "130": {
+  "question": "Question: Which of the following items best fits this description? An articulation in which one articulator is held loosely near another so that the flow of air between them sets them in motion, alternately sucking them together and blowing them apart. In some forms of Scottish English, [ r ] in rip is trilled.",
+  "A": "nasal",
+  "B": "stress",
+  "C": "tap",
+  "D": "trill",
+  "answer": "D"
+ },
+ "131": {
+  "question": "Question: Which of the following items best fits this description? Describes an articulation that involves the back of the tongue and the velum, or the soft palate, as in English [ g ] in guy.",
+  "A": "flap",
+  "B": "coda",
+  "C": "velum",
+  "D": "velar",
+  "answer": "D"
+ },
+ "132": {
+  "question": "Question: Which of the following items best fits this description? A visual pattern often seen on spectrograms of velar sounds. The F2 and F3 are quite close to each other.",
+  "A": "laminal",
+  "B": "velarization",
+  "C": "pitch",
+  "D": "velar pinch",
+  "answer": "D"
+ },
+ "133": {
+  "question": "Question: Which of the following items best fits this description? A secondary articulation in which the back of the tongue is raised toward the soft palate.",
+  "A": "declination",
+  "B": "labialization",
+  "C": "articulation",
+  "D": "velarization",
+  "answer": "D"
+ },
+ "134": {
+  "question": "Question: Which of the following items best fits this description? Involving the upper surface of the velum, or soft palate, and the pharynx. A velic closure prevents air from escaping through the nose.",
+  "A": "velic",
+  "B": "lax",
+  "C": "vocoid",
+  "D": "flap",
+  "answer": "A"
+ },
+ "135": {
+  "question": "Question: Which of the following items best fits this description? The soft, movable part of the palate at the back of the mouth.",
+  "A": "flap",
+  "B": "tense",
+  "C": "velum",
+  "D": "velar",
+  "answer": "C"
+ },
+ "136": {
+  "question": "Question: Which of the following items best fits this description? The air passages above the vocal folds. It consists of the oral tract and the nasal tract.",
+  "A": "formant",
+  "B": "velar pinch",
+  "C": "oral stop",
+  "D": "vocal tract",
+  "answer": "D"
+ },
+ "137": {
+  "question": "Question: Which of the following items best fits this description? A sound with no obstruction in the center of the mouth.",
+  "A": "dorsal",
+  "B": "coronal",
+  "C": "vocoid",
+  "D": "liquid",
+  "answer": "C"
+ },
+ "138": {
+  "question": "Question: Which of the following items best fits this description? A dark area near the baseline in a spectrogram, indicating voicing during a consonant.",
+  "A": "voiceless",
+  "B": "velar",
+  "C": "alveolar",
+  "D": "voice bar",
+  "answer": "D"
+ },
+ "139": {
+  "question": "Question: Which of the following items best fits this description? The moment at which the voicing starts relative to the release of a closure.",
+  "A": "voice bar",
+  "B": "voice onset time",
+  "C": "contour tone",
+  "D": "implosive",
+  "answer": "B"
+ },
+ "140": {
+  "question": "Question: Which of the following items best fits this description? Having vibrations of the vocal folds during an articulation, as in English [ m ] in me. In a partially sound, vocal fold vibrations occur during only part of the articulation, as often in English [d] in die.",
+  "A": "source",
+  "B": "locus",
+  "C": "rounded",
+  "D": "voiced",
+  "answer": "D"
+ },
+ "141": {
+  "question": "Question: Which of the following items best fits this description? Pronounced without vibrations of the vocal folds, as in English [ s ] in see.",
+  "A": "locus",
+  "B": "voiced",
+  "C": "voice bar",
+  "D": "voiceless",
+  "answer": "D"
+ },
+ "142": {
+  "question": "Question: Which of the following items best fits this description? The timbre of a vowel caused almost entirely by the frequencies of the vowel formants.",
+  "A": "sonority",
+  "B": "vowel quality",
+  "C": "vocal tract",
+  "D": "intensity",
+  "answer": "B"
+ },
+ "143": {
+  "question": "Question: Which of the following items best fits this description? The unstressed form of any word, such as but and as, that does not maintain its full form when it occurs in conversational speech.",
+  "A": "strong form",
+  "B": "velar",
+  "C": "allophone",
+  "D": "weak form",
+  "answer": "D"
+ }
+}

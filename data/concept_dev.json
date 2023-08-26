@@ -1,0 +1,47 @@
+{
+ "dev-001": {
+  "question": "Which of the following items best fits this description? English speech sounds encompass various types, including plosives, fricatives, affricates, nasals, liquids, and glides.",
+  "A": "consonant",
+  "B": "vowel",
+  "C": "articulation",
+  "D": "articulator",
+  "answer": "A",
+  "explanation": "Consonants are speech sounds that are produced with some degree of constriction or closure in the vocal tract. They can be classified according to their place of articulation (where the constriction occurs) and their manner of articulation (how the constriction is made). The main types of consonants in English are: plosives (e.g. /p/, /b/, /t/, /d/, /k/, /g/), fricatives (e.g. /f/, /v/, /θ/, /ð/, /s/, /z/, /ʃ/, /ʒ/, /h/), affricates (e.g. /tʃ/, /dʒ/), nasals (e.g. /m/, /n/, /ŋ/), liquids (e.g. /l/, /r/), and glides (e.g. /w/, /j/)."
+ },
+ "dev-002": {
+  "question": "Which of the following items best fits this description? The smallest unit of sound that can change the meaning of a word in a language.",
+  "A": "phoneme",
+  "B": "allophone",
+  "C": "syllable",
+  "D": "morpheme",
+  "answer": "A",
+  "explanation": "A phoneme is the smallest unit of sound that can change the meaning of a word in a language. For example, /p/ and /b/ are phonemes in English, because changing one for the other can change the meaning of a word, such as “pat” and “bat”. An allophone is a variant of a phoneme that does not affect the meaning of a word, such as the aspirated /p/ in “pin” and the unaspirated /p/ in “spin”. A syllable is a unit of sound that consists of a vowel or a vowel and one or more consonants, such as “cat” or “stop”. A morpheme is the smallest unit of meaning in a language, such as “cat” or “-s”."
+ },
+ "dev-003": {
+  "question": "Which of the following items best fits this description? The study of how sounds are organized and used in natural languages.",
+  "A": "phonetics",
+  "B": "phonology",
+  "C": "morphology",
+  "D": "syntax",
+  "answer": "B",
+  "explanation": "Phonetics is the study of how sounds are produced, transmitted, and perceived by humans. It deals with the physical aspects of speech sounds, such as their articulation, acoustics, and perception. Phonology is the study of how sounds are organized and used in natural languages. It deals with the patterns and rules of sound systems, such as how sounds contrast, combine, and change in different contexts. Morphology is the study of how words are formed and structured from smaller units of meaning, such as roots, prefixes, and suffixes. Syntax is the study of how words are arranged and combined to form sentences and phrases."
+ },
+ "dev-004": {
+  "question": "Which of the following items best fits this description? The process of transferring the features of one’s native language to a second language.",
+  "A": "interference",
+  "B": "fossilization",
+  "C": "acquisition",
+  "D": "motivation",
+  "answer": "A",
+  "explanation": "Interference is the process of transferring the features of one’s native language to a second language. It can affect various aspects of language learning, such as pronunciation, grammar, vocabulary, and pragmatics. For example, a native speaker of Mandarin Chinese may pronounce /r/ as /l/ in English due to interference from their native language. Fossilization is the process of stabilizing or freezing one’s interlanguage (the learner’s current stage of second language development) at a level that is below the target language norm. It can result from various factors, such as lack of exposure, motivation, or feedback. Acquisition is the process of acquiring or learning a second language through naturalistic or subconscious means, such as exposure, interaction, and communication. Motivation is the psychological factor that influences one’s willingness and effort to learn a second language. It can be intrinsic (coming from within oneself) or extrinsic (coming from external sources)."
+ },
+ "dev-005": {
+  "question": "Which of the following items best fits this description? The phenomenon in which two sounds become more similar to each other due to their proximity in speech.",
+  "A": "assimilation",
+  "B": "deletion",
+  "C": "insertion",
+  "D": "metathesis",
+  "answer": "A",
+  "explanation": "Assimilation is the phenomenon in which two sounds become more similar to each other due to their proximity in speech. It can affect various features of sounds, such as their place or manner of articulation, voicing, or nasality. Deletion is the phenomenon in which a sound is omitted or dropped from speech due to various factors, such as speed, ease, or context. Insertion is the phenomenon in which a sound is added or inserted into speech due to various factors, such as ease, transition, or clarity. Metathesis is the phenomenon in which two sounds switch their positions or order in speech due to various factors, such as ease, error, or change. For example, in English, some speakers may pronounce “ask” as “aks” or “iron” as “iorn” due to metathesis."
+ }
+}
