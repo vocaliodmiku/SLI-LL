@@ -20,7 +20,7 @@
 <br>
 <div align="justify"> We introduce a new multiple-choice question dataset to evaluate the effectiveness of LLMs in Spoken Language Learning, including understanding and application of spoken language knowledge. We investigate the influence of various prompting techniques such as zero- and few-shot method (prepending the question with question-answer exemplars), chain-of-thought (CoT, think step-by-step), in-domain exampler and external tools (Google, Wikipedia). We conducted large-scale evaluation on popular LLMs (20 distinct models) using these methods, and advanced method achieved significant performance improvements compared to the zero-shot baseline in the practical questions reasoning (GPT-3.5, 49.1% -> 63.1%; LLaMA2-70B-Chat, 42.2% -> 48.6%). We found that models of different sizes have good understanding of concepts in phonetics, phonology, and second language acquisition, but show limitations in reasoning for real-world problems. Additionally, we also explore preliminary findings on conversational communication. <strong>These performances highlight the impressive Spoken Language Intelligence exhibited by LLMs, and Chatbots based on large language models possess significant potential to enhance conversational spoken language learning.</strong>
 </div>
-<img src="./docs/static/pdfs/Q11.png?raw=true" width="768px">
+<img src="./docs/static/pdfs/Q111.png?raw=true" width="768px" background-color=rgba(255,255,255,1)>
 <br>
 
 <!-- <p>
