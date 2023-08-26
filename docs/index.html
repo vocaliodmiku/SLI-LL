@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="DESCRIPTION META TAG">
+  <meta property="og:title" content="SOCIAL MEDIA TITLE TAG"/>
+  <meta property="og:description" content="SOCIAL MEDIA DESCRIPTION TAG TAG"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/>
+
+
+  <meta name="twitter:title" content="TWITTER BANNER TITLE META TAG">
+  <meta name="twitter:description" content="TWITTER BANNER DESCRIPTION META TAG">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="KEYWORDS SHOULD BE PLACED HERE">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>SIL-LLM-LL</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Spoken Language Intelligence of Large Language Models for Language Learning</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+              <a href="https://vocaliodmiku.github.io" target="https://vocaliodmiku.github.io">Linkai Peng</a><sup>1</sup>,</span>
+              <span class="author-block">
+             <a href="https://boroooo.github.io" target="https://boroooo.github.io">Baorian Nuchged</a><sup>2</sup>,</span>
+              <span class="author-block">
+              <a href="THIRD AUTHOR PERSONAL LINK" target="yingming.gao@bupt.edu.cn">Yingming Gao</a><sup>3</sup>,</span>
+              <span class="author-block">
+               <a href="THIRD AUTHOR PERSONAL LINK" target="_blank">Author,</a> 
+                </span>
+                  </div>
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block"><sup>1</sup>NetEase Youdao<br><sup>2</sup>The University of Texas at Austin<br>
+                      <sup>3</sup>Beijing University of Posts and Telecommunications<br>
+                    <span class="eql-cntrb"><small><br><sup>*</sup>Paper is coming Soon</small></span> 
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <span class="link-block">
+                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span>
+
+                    <!-- Supplementary PDF link -->
+                    <span class="link-block">
+                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Supplementary</span>
+                    </a>
+                  </span>
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/vocaliodmiku/SIL-LLM-LL.git" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <span class="link-block">
+                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Although large language models (LLMs) often achieve impressive performance, their performance in some real-world scenarios that require expert knowledge is still unclear. Education is considered the most promising and valuable application scenario for LLMs. We focus on the performance of LLMs in Spoken language learning, which includes phonetics, phonology, and second language acquisition. We introduce a new dataset in the form of multiple-choice questions to test the feasibility of large language models in these contexts. We explore the impact of different types of prompts and find that models of different sizes perform comparably well. However, these models still have some limitations, and there is room for improvement through certain techniques. <b>Overall, these results suggest that the next generation of automated spoken language learning systems is imminent.</b>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div style="text-align: center;" class="hero-body-img">
+      <img src="static/pdfs/Q11.png" width="80%">
+    </div>
+  </div>
+</section>
+
+<!-- Paper abstract -->
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">Dataset</h2>
+    <p> We introduce a new dataset that covers topics of phonetics, phonology, and second language acquisition, which are frequently addressed in language learning. The dataset consists of two parts: <br>(1) a set of <b>concepts</b> (144 questions) that are mainly designed to test the large models' knowledge of spoken language, such as "what is language transfer" and "how many classifications of consonants are there based on pronunciation?" It is mainly sampled from <a href="https://en.wikipedia.org/wiki/A_Course_in_Phonetics">A Course in Phonetics
+    </a>. <br>(2) <b>Application exercises</b> (301 questions). We designed this section of data from aspects such as pronunciation, pause, stress, and intonation. An example is shown in the figure above. These two parts of data are organized in the form of multiple-choice questions, with each question having a unique answer. </br> The left image  shows the distribution of answers across the entire dataset and subset. The right image shows the proportion of question types in the second part of the dataset. </p>
+    <p> You can access this datasets from the  <a href="https://github.com/vocaliodmiku/SIL-LLM-LL">link</a>.</p>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+<!-- Image carousel -->
+<section class="hero is-small">
+  <div class="hero-body">
+    <div style="text-align: center;" class="container">
+      <table style="margin:auto">
+        <tr>
+          <td><img src="static/pdfs/data_dist.png" width="100%" height="800"></td>
+          <td><img src="static/pdfs/ans_dist.png" width="100%" height="800"></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</section>
+<!-- End image carousel -->
+
+<!-- Paper abstract -->
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content">
+    <h2 class="title">Results</h2>
+    <table style="margin:auto">
+      <tr>
+        <td><img src="static/images/overall_res.png" width="100%"></td>
+      </tr>
+    </table>
+    <p>We conducted a large-scale experiment to test currently popular models. To obtain a comprehensive and detailed conclusion, we analyzed the following aspects.</p>
+  </div>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/pdfs/model_size_boxplot1_2.png" width="70%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>Models with more parameters tend to have better performance and stability:</b> We analyzed the results of all prompt methods for all models. The graph shows that, on both sub-datasets, models with parameter numbers ranging from 7B to 13B have higher performance variance and relatively lower mean performance. Models with parameter numbers greater than 20B have more stable performance. </p>
+    <p><b>LLM excels in concept memorization but has weaker ability in applying knowledge for reasoning:</b> Even on a relatively small model (7B), the accuracy of concept memorization can reach nearly 80%, and a model with a size of around 11B can achieve the level of GPT3.5. However, for reasoning applications, models with sizes of 70B and the GPT series models have an absolute advantage. </p>
+  </div>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/pdfs/answer_acc_boxplot1.png" width="60%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>Knowledge preference:</b> We analyzed whether these models have specific preferences for certain types of knowledge. The graph above shows the correct answer rates of the models for different types of questions in the reasoning test. We can see that they have similar performance. It's worth noting that our multiple-choice questions have four options, and the probability of guessing correctly is about 25%. </p>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/model_bias.png" width="60%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>Answer Bias:</b> We selected several "representative" models and conducted corresponding distribution analysis of generated answers. It can be observed that, apart from GPT3.5 and GPT4, the other models exhibit significant answer bias. </p>
+</section>
+
+<section class="hero is-small" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="hero-body">
+  <div style="text-align: center; margin:auto" class="container">
+    <table style="margin:auto">
+      <tr>
+        <td><img src="static/images/fs.png" width="80%" height="800"></td>
+        <td><img src="static/images/cot.png" width="80%" height="800"></td>
+      </tr>
+    </table>
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto; padding-bottom: 0rem;" >
+    <p><b>Few-shots & CoT: </b>Increasing the number of examples can improve performance to a limited extent. Increasing the examples of the thinking chain will have a more significant and stable effect on models above 70B. However, for smaller models, these prompts may already exceed their capabilities, resulting in a loss of performance.</p>
+  </div>
+</div>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/cot_ood.png" width="60%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>In-Domain Prompt v.s. Out Of Domain Prompt:</b> We used prompts from different domains for two models capable of responding to CoT. In most cases, most examples are not carefully selected or designed. We used domain-specific prompts for different types of questions. Our approach has shown significant advantages compared to more common examples. In the process of increasing examples, the model not only learned how to answer multiple-choice questions, but also gained some insights.  </p>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/sc_res.png" width="60%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>Self-Consistency:</b> Although the solution to these phonological problems does not have as many reasoning paths as mathematical reasoning questions, we found that self-consistency can improve performance on the GPT3 model. However, for Llama, its occasional cleverness can be offset by multiple generated errors. The following are examples where GPT-3 successfully corrected errors while LLaMA failed unfer Self-Consistency.</p>
+</section>
+
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/sc.png" width="60%">
+  </div>
+</section>
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/sample_llama.png" width="60%">
+  </div>
+</section>
+
+
+<section class="section" id="BibTeX" style="padding-bottom: 0rem; padding-top: 0rem;">
+  <div class="container is-max-desktop content" style="margin:auto; text-align: center;">
+    <img src="static/images/alm.png" width="60%">
+  </div>
+  <div class="container is-max-desktop content" style="margin:auto">
+    <p><b>Augmented Language Models:</b> We provided two tools for use by GPT-3.5, but did not get better results. One piece of good news is that models using the tools can recognize their limitations and refuse to answer questions they are uncertain about, although this ability still seems relatively limited. </p>
+</section>
+
+<!-- Paper abstract -->
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">Conclusion</h2>
+    <p> We explored zero-shot, few-shot, direct, and CoT prompts to phonology-related questions answering. These models all have strong conceptual knowledge and can achieve high accuracy with simple zero-shot and few-shot learning. However, in our practice-based questions, the strongest GPT4 achieved 77.4% accuracy, while the most popular open-source model, llama, achieved 50.8% accuracy. This means there is significant room for improvement in their performance in real-world scenarios. We attempted to further explore their performance using self-consistency, domain-specific prompts, and tool enhancement, and achieved some results. These excellent performances indicate that the models have a certain degree of Spoken Language Intelligence. Large language model based chatbots have the potential to support conversational spoken language learning.</p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a>. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
