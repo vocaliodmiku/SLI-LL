@@ -1080,7 +1080,7 @@
   "type": "b"
  },
  "120": {
-  "question": "My pronunciation: ### I think that cats are better than dogs (pause) Cats are more independent and quiet / and they don’t need much attention or care (pause) Dogs are more needy and noisy / and they require a lot of time and energy (pause) I prefer animals that are calm and low-maintenance / so I like cats more than dogs (pause) ###",
+  "question": "question: Analyze if there are any issues with pauses in my pronunciation. My pronunciation: ### I think that cats are better than dogs (pause) Cats are more independent and quiet / and they don’t need much attention or care (pause) Dogs are more needy and noisy / and they require a lot of time and energy (pause) I prefer animals that are calm and low-maintenance / so I like cats more than dogs (pause) ###",
   "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
   "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
   "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
@@ -1089,7 +1089,7 @@
   "type": "b"
  },
  "121": {
-  "question": "My pronunciation: ### I think that cats are better than dogs um cats are more independent and quiet and they don’t need much attention or care er dogs are more needy and noisy and they require a lot of time and energy uh I prefer animals that are calm and low-maintenance so I like cats more than dogs ###",
+  "question": "question: Analyze if there are any issues with pauses in my pronunciation. My pronunciation: ### I think that cats are better than dogs um cats are more independent and quiet and they don’t need much attention or care er dogs are more needy and noisy and they require a lot of time and energy uh I prefer animals that are calm and low-maintenance so I like cats more than dogs ###",
   "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
   "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
   "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
@@ -1098,7 +1098,7 @@
   "type": "b"
  },
  "122": {
-  "question": "My pronunciation: ### I think that cats are better than dogs (pause) Um cats are more independent and quiet (pause) And they don’t need much attention or care (pause) Er dogs are more needy and noisy (pause) And they require a lot of time and energy (pause) Uh I prefer animals that are calm / and low-maintenance (pause) So I like cats more than dogs (pause)  ###",
+  "question": "question: Analyze if there are any issues with pauses in my pronunciation. My pronunciation: ### I think that cats are better than dogs (pause) Um cats are more independent and quiet (pause) And they don’t need much attention or care (pause) Er dogs are more needy and noisy (pause) And they require a lot of time and energy (pause) Uh I prefer animals that are calm / and low-maintenance (pause) So I like cats more than dogs (pause)  ###",
   "A": "There are too many filled pauses between the words or phrases. This can make it sound like you are unsure or unprepared about what you are saying.",
   "B": "There are long pauses after each word or phrase with a filled pause. This can make it sound like you are doubtful or hesitant about what you are saying.",
   "C": "There is no pause after the sentences with a question mark and a filled pause. This can make it sound like you are asking questions instead of expressing opinions.",
