@@ -46,7 +46,14 @@ Application Questions
 If you find our work useful in your research, please consider citing:
 
 ```
-
+@misc{peng2023spoken,
+      title={Spoken Language Intelligence of Large Language Models for Language Learning}, 
+      author={Linkai Peng and Baorian Nuchged and Yingming Gao},
+      year={2023},
+      eprint={2308.14536},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
 ```
 
 
